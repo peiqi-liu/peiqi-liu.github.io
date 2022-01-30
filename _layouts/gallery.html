@@ -80,18 +80,23 @@
                     <h1 class="f00-light lh-condensed mb-5">{{ page.title }}</h1>
                     <div class="content_container">
                         <div class="masonry">
-                            <div
-                                class="clearfix flex-md-row flex-items-center d-flex flex-wrap flex-justify-center {% if site.style == 'dark' %}text-white{% endif %}">
+                            <div class="clearfix flex-md-row flex-items-center d-flex flex-wrap flex-justify-center {% if site.style == 'dark' %}text-white{% endif %}"
+                                class="gallery">
                                 {% for gallery in site.galleries %}
                                 {% if gallery.name == page.title %}
-                                {% for art in gallery.arts %}
+                                {% for art in gallery.arts reversed %}
                                 <div
                                     class="d-flex col-md-12 col-lg-6 col-xl-4 mx-auto mb-4 mr-2 flex-items-center flex-justify-center m-1 p-1 anim-hover-grow">
-                                    <a href="#{{ art.order }}" data-caption-desc="{{ art.description }}"
-                                        class="d-flex flex-items-center flex-justify-center mx-auto">
-                                        <img src="/{{ art.image }}" alt="{{ art.title }}"
-                                            class="width-full rounded-2 mx-auto">
-                                    </a>
+                                    <figure>
+                                        <a itemprop="contentUrl" href="{{ art.image_url }}"
+                                            data-caption-desc="{{ art.description }}" data-description="{{ art.title }}"
+                                            class="glightbox d-flex flex-items-center flex-justify-center mx-auto">
+                                            <img itemprop="thumbnail" src="/{{ art.image }}" alt="{{ art.title }}"
+                                                class="width-full rounded-2 mx-auto">
+                                        </a>
+                                        <figcaption itemprop="caption description" hidden
+                                            class="invisible glightbox-desc">{{ art.title }}</figcaption>
+                                    </figure>
                                 </div>
                                 {% endfor %}
                                 {% endif %}
@@ -109,6 +114,52 @@
         {% include masthead.html metadata=true %}
     </div>
 </div>
+<script src="/assets/luminous.min.js"></script>
+<link rel="stylesheet" href="/assets/luminous-basic.min.css">
+<script>
+    var galleryOpts = {
+        // Whether pressing the arrow keys should move to the next/previous slide.
+        arrowNavigation: true,
+        // A callback triggered when the image changes that is passed the image HTML element 
+    };
+
+    var luminousOpts = {
+        // These options have the same defaults and potential values as the Luminous class.
+        // Prefix for generated element class names (e.g. `my-ns` will
+        // result in classes such as `my-ns-lightbox`. Default `lum-`
+        // prefixed classes will always be added as well.
+        namespace: null,
+        // Which attribute to pull the lightbox image source from.
+        sourceAttribute: "href",
+        // Captions can be a literal string, or a function that receives the Luminous instance's trigger element as an argument and returns a string. Supports HTML, so use caution when dealing with user input.
+        caption: (element) => { return element.getAttribute("data-description") },
+        // The event to listen to on the _trigger_ element: triggers opening.
+        openTrigger: "click",
+        // The event to listen to on the _lightbox_ element: triggers closing.
+        closeTrigger: "click",
+        // Allow closing by pressing escape.
+        closeWithEscape: true,
+        // Automatically close when the page is scrolled.
+        closeOnScroll: false,
+        // Disable close button
+        showCloseButton: true,
+        // A node to append the lightbox element to.
+        appendToNode: document.body,
+        // A selector defining what to append the lightbox element to.
+        // This will take precedence over `appendToNode`.
+        appendToSelector: null,
+        // If present (and a function), this will be called
+        // whenever the lightbox is opened.
+        onOpen: null,
+        // If present (and a function), this will be called
+        // whenever the lightbox is closed.
+        onClose: null,
+        // Add base styles to the page. See the "Theming"
+        // section of README.md for more information.
+        injectBaseStyles: true
+    };
+    new LuminousGallery(document.querySelectorAll(".glightbox"), galleryOpts, luminousOpts);
+</script>
 {% endif %}
 
 {% include footer.html %}
