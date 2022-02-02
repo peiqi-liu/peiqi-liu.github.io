@@ -5,6 +5,9 @@ tags: play, hass, mit, theater, arts
 description: A short reflection 
 title: "Can You Forgive Her?"
 header_image: https://bostonglobe-prod.cdn.arcpublishing.com/resizer/xtmpGqbNZVnmLnT8AjLn6gyex1w=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/OBIAPIHWTMI6LAKZ4BU54ZQPCI.jpg
+category: theater review
+coauthor: ""
+coauthor_url: ""
 ---
 
 Today, I went to watch a play, and it was fantastic!
