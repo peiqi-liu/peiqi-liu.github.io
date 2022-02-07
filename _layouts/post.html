@@ -90,9 +90,17 @@
           <p class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %} mb-5">Published {{ page.date |
             date: "%b %d, %Y"}}</p>
 
+          {% if page.header_image and page.header_image != "" %}
           <div class="d-flex flex-items-center">
             <img src="{{ page.header_image }}" class="col-12 mb-3"></img>
           </div>
+          {% if page.header_image_credit and page.header_image_credit != "" %}
+          <p class="f5">
+            <small class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">PHOTO: {{
+              page.header_image_credit }}</small>
+          </p>
+          {% endif %}
+          {% endif %}
           {{ post_body }}
         </div>
       </div>
