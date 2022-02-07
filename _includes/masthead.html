@@ -13,6 +13,24 @@
 
 {% if include.metadata %}
 <div class="f3-light mb-6">
+  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+    {% octicon home height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
+    <a href="/" {% if site.style=='dark' %}class="text-white" {% endif %}>
+      Home
+    </a>
+  </div>
+  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+    {% octicon pencil height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
+    <a href="/writings/" {% if site.style=='dark' %}class="text-white" {% endif %}>
+      Writings
+    </a>
+  </div>
+  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+    {% octicon device-camera height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Photographs %}
+    <a href="/photojournalism/" {% if site.style=='dark' %}class="text-white" {% endif %}>
+      Photographs
+    </a>
+  </div>
   {% if user.name %}
   <div class="{{ metadata_styles }}">
     {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
@@ -35,24 +53,6 @@
     {{ user.location }}
   </div>
   {% endif %}
-  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-    {% octicon home height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
-    <a href="/" {% if site.style=='dark' %}class="text-white" {% endif %}>
-      Home
-    </a>
-  </div>
-  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-    {% octicon pencil height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
-    <a href="/writings/" {% if site.style=='dark' %}class="text-white" {% endif %}>
-      Writings
-    </a>
-  </div>
-  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-    {% octicon device-camera height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Photographs %}
-    <a href="/photojournalism/" {% if site.style=='dark' %}class="text-white" {% endif %}>
-      Photographs
-    </a>
-  </div>
   {% if site.social_media %}
   <div
     class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mt-md-3{% endif %}">
@@ -68,7 +68,6 @@
     {% endfor %}
   </div>
   {% endif %}
-
   <!-- {% if user.hireable %}
   <span title="Collaborate with me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Message me for
     collaborations!</span>
