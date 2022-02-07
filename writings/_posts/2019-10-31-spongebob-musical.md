@@ -9,10 +9,10 @@ header_image_credit: COURTESY OF JEREMY DANIEL
 category: MUSICAL REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "The SpongeBob Musical
-Book by Kyle Jarrow
-Directed by Tina Landau
-Boch Center Wang Theater
+header_data: "The SpongeBob Musical\n
+Book by Kyle Jarrow\n
+Directed by Tina Landau\n
+Boch Center Wang Theater\n
 Oct. 15 - 27"
 ---
 As I walked into the theater hall in the Boch Center to enjoy The SpongeBob Musical, the first thing to catch my eye was the contrast between the stage and the rest of the hall.<!--break--> In the early twentieth century buttressed theater, the technicolor stagecraft was like a fish out of water. The second surprise was probably the median age of the audience, a good twenty years lower than what I had expected. Both of these were misleading, as I found out. The musical itself was so immersive that, once it started, I barely had time to take stock of the theater. And while the majority of the audience was children, the musical wasn't just light hearted banter; SpongeBob makes an effort to address some serious issues through music worth rocking out to.

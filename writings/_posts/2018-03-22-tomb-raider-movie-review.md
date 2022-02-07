@@ -9,11 +9,11 @@ header_image_credit:  COURTESY OF WARNER BROS
 category: MOVIE REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★✩✩✩
-Directed by Roar Uthaug
-Screenplay Written by Geneva Robertson-Dworet and Alastair Siddons
-Starring Alicia Vikander, Dominic West, Walton Goggins, Daniel Wu, Kristin Scott Thomas
-Rated PG-13
+header_data: "★★✩✩✩\n
+Directed by Roar Uthaug\n
+Screenplay Written by Geneva Robertson-Dworet and Alastair Siddons\n
+Starring Alicia Vikander, Dominic West, Walton Goggins, Daniel Wu, Kristin Scott Thomas\n
+Rated PG-13\n
 Now Playing
 "
 ---

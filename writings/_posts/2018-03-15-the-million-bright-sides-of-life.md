@@ -9,12 +9,12 @@ header_image_credit:  COURTESY OF SPEAKEASY STAGE COMPANY
 category: Theater review
 coauthor: "Patricia Gao"
 coauthor_url: "https://thetech.com/authors/patricia-gao"
-header_data: "★★★★★
-Every Brilliant Thing
-Directed by Marianna Bassham
-Starring Adrianne Krstansky
-Written by Duncan MacMillan with Jonny Donahoe
-Calderwood Pavilion
+header_data: "★★★★★\n
+Every Brilliant Thing\n
+Directed by Marianna Bassham\n
+Starring Adrianne Krstansky\n
+Written by Duncan MacMillan with Jonny Donahoe\n
+Calderwood Pavilion\n
 March 2 – 31, 2018
 "
 ---

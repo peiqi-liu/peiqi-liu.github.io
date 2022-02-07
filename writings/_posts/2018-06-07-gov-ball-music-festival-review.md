@@ -9,8 +9,8 @@ header_image_credit:
 category: MUSIC FESTIVAL REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "Governors Ball 2018
-Randall Island Park, New York
+header_data: "Governors Ball 2018\n
+Randall Island Park, New York\n
 June 1 - 3
 "
 ---

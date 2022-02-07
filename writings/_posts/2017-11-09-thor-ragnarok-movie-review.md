@@ -9,12 +9,12 @@ header_image_credit: COURTESY OF MARVEL STUDIOS
 category: MOVIE REVIEW
 coauthor: "Leah Yost"
 coauthor_url: "https://thetech.com/authors/leah-yost"
-header_data: "★★★✩✩
-Thor: Ragnarok
-Directed by Taika Waititi
-Screenplay by Eric Pearson, Craig Kyle, and Christopher Yost
-Soundtrack by Mark Mothersbaugh
-Based on the characters from 'Thor' comic book series by Stan Lee, Larry Lieber, and Jack Kirby
+header_data: "★★★✩✩\n
+Thor: Ragnarok\n
+Directed by Taika Waititi\n
+Screenplay by Eric Pearson, Craig Kyle, and Christopher Yost\n
+Soundtrack by Mark Mothersbaugh\n
+Based on the characters from 'Thor' comic book series by Stan Lee, Larry Lieber, and Jack Kirby\n
 Rated PG-13, Now Playing
 "
 ---

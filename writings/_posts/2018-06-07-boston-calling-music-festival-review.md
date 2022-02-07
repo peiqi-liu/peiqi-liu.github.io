@@ -9,9 +9,9 @@ header_image_credit:
 category: MUSIC FESTIVAL REVIEW
 coauthor: "Ivy Li"
 coauthor_url: "https://thetech.com/authors/ivy-li"
-header_data: "Boston Calling 2018
-Harvard Athletic Complex
-May 25 � 27
+header_data: "Boston Calling 2018\n
+Harvard Athletic Complex\n
+May 25 - 27
 "
 ---
 

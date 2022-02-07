@@ -9,12 +9,12 @@ header_image_credit:  COURTESY OF BRIAN SAMUELS PHOTOGRAPHY
 category: RESTAURANT REVIEW
 coauthor: "Shreyan Jain"
 coauthor_url: "https://thetech.com/authors/shreyan-jain"
-header_data: "★★★★✩
-Shore Leave
-Asian Fusion, $$
-11 William E. Mullins Way
-Boston, MA 02118
-Hours:
+header_data: "★★★★✩\n
+Shore Leave\n
+Asian Fusion, $$\n
+11 William E. Mullins Way\n
+Boston, MA 02118\n
+Hours:\n
 Monday–Sunday dinner 5 p.m.–11 p.m., bar until 1 a.m.
 "
 ---

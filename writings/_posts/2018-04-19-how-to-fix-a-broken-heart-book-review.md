@@ -9,9 +9,9 @@ header_image_credit:
 category: BOOK REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "✭✭✩✩✩
-How to Fix a Broken Heart
-Written by Guy Winch
+header_data: "✭✭✩✩✩\n
+How to Fix a Broken Heart\n
+Written by Guy Winch\n
 Published by Simon & Schuster, as a part of TED Books
 "
 ---

@@ -9,11 +9,10 @@ header_image_credit:
 category: RESTAURANT REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "BB.Q Chicken
-Korean, $
-
-Every day: 11:00 a.m. – 11:00 p.m.
-182 Harvard Ave
+header_data: "BB.Q Chicken\n
+Korean, $\n
+Every day: 11:00 a.m. – 11:00 p.m.\n
+182 Harvard Ave\n
 Boston, MA 02134
 "
 ---

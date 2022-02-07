@@ -9,11 +9,11 @@ header_image_credit:  COURTESY OF DISNEY/PIXAR
 category: MOVIE REVIEW
 coauthor: "Rogers Epstein"
 coauthor_url: "https://thetech.com/authors/rogers-epstein"
-header_data: "★★★✩✩
-Onward
-Directed by Dan Scanlon
-Screenplay by Dan Scanlon, Jason Headley, Keith Bunin
-Starring Tom Holland, Chris Pratt, Octavia Spencer
+header_data: "★★★✩✩\n
+Onward\n
+Directed by Dan Scanlon\n
+Screenplay by Dan Scanlon, Jason Headley, Keith Bunin\n
+Starring Tom Holland, Chris Pratt, Octavia Spencer\n
 Rated PG, Playing March 6
 "
 ---

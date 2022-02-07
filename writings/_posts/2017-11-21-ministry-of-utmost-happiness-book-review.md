@@ -9,9 +9,9 @@ header_image_credit:  COURTESY OF MAYANK AUSTEN SOOFI
 category: BOOK REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "✭✭✭✭✭
-Ministry of Utmost Happiness
-Written by Arundhuti Roy
+header_data: "✭✭✭✭✭\n
+Ministry of Utmost Happiness\n
+Written by Arundhuti Roy\n
 Published by Penguin Random House (Knopf)
 "
 ---

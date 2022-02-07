@@ -9,10 +9,10 @@ header_image_credit:  COURTESY OF MARVEL STUDIOS
 category: MOVIE REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★✩
-Directed by Ryan Coogler
-Starring: Chadwick Boseman, Michael B. Jordan, Lupita Nyong’o, Danai Gurira, Martin Freeman
-PG-13
+header_data: "★★★★✩\n
+Directed by Ryan Coogler\n
+Starring: Chadwick Boseman, Michael B. Jordan, Lupita Nyong’o, Danai Gurira, Martin Freeman\n
+PG-13\n
 Playing Feb. 16, 2018
 "
 ---

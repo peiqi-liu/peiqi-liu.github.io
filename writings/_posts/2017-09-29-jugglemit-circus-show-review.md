@@ -9,9 +9,9 @@ header_image_credit:  COURTESY OF GEOFFREY WAY
 category: PERFORMING ARTS REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "JuggleMIT Circus Show
-Arranged by MIT Student Juggling Club
-Kresge Auditorium
+header_data: "JuggleMIT Circus Show\n
+Arranged by MIT Student Juggling Club\n
+Kresge Auditorium\n
 Sept. 23, 2017
 "
 ---

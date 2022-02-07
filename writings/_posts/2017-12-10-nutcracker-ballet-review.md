@@ -9,9 +9,9 @@ header_image_credit:  COURTESY OF TU-LAN VU-HAN THE TECH
 category: BALLET REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "The Nutcracker
-Choreographed by Mikko Nissinen
-Boston Opera House
+header_data: "The Nutcracker\n
+Choreographed by Mikko Nissinen\n
+Boston Opera House\n
 Nov. 24 – Dec. 31
 "
 ---

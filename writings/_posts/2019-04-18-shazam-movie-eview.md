@@ -9,10 +9,10 @@ header_image_credit:  COURTESY OF WARNER BROS.PICTURES
 category: MOVIE REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★✩
-Directed by David Sandberg
-Screenplay by Henry Gayden
-Starring Zachary Levi, Mark Strong, Asher Angel
+header_data: "★★★★✩\n
+Directed by David Sandberg\n
+Screenplay by Henry Gayden\n
+Starring Zachary Levi, Mark Strong, Asher Angel\n
 Rated PG-13, Now Playing
 "
 ---

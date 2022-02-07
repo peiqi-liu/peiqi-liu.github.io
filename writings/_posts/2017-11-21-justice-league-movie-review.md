@@ -9,13 +9,13 @@ header_image_credit:  COURTESY OF WARNER BROS
 category: MOVIE REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★✩
-Justice League
-Directed by Zach Snyder
-Stars Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller, Robin Wright
-Screenplay by Joss Whedon and Chris Terrio
-Soundtrack by Danny Elfman
-Based on the characters from the DC comic books
+header_data: "★★★★✩\n
+Justice League\n
+Directed by Zach Snyder\n
+Stars Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller, Robin Wright\n
+Screenplay by Joss Whedon and Chris Terrio\n
+Soundtrack by Danny Elfman\n
+Based on the characters from the DC comic books\n
 Rated PG-13, Now Playing
 "
 ---

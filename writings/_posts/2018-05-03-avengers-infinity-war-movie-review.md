@@ -9,12 +9,12 @@ header_image_credit:  COURTESY OF WALT DISNEY PICTURES
 category: MOVIE REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★★
-Avengers: Infinity War
-Directed by Anthony Russo and Joe Russo
-Starring Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson
-Screenplay by Christopher Markus, Stephen McFeely
-Based on the Marvel comics by Stan Lee and Jack Kirby
+header_data: "★★★★★\n
+Avengers: Infinity War\n
+Directed by Anthony Russo and Joe Russo\n
+Starring Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson\n
+Screenplay by Christopher Markus, Stephen McFeely\n
+Based on the Marvel comics by Stan Lee and Jack Kirby\n
 Rated PG-13
 "
 ---

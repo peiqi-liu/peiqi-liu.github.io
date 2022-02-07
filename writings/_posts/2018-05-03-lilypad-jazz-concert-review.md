@@ -9,9 +9,9 @@ header_image_credit:  COURTESY OF MIKE MCGINNIS
 category: CONCERT REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★✩
-Steve Swallow, Art Lande, and Mike McGinnis
-The Lilypad
+header_data: "★★★★✩\n
+Steve Swallow, Art Lande, and Mike McGinnis\n
+The Lilypad\n
 April 21
 "
 ---

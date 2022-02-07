@@ -9,9 +9,9 @@ header_image_credit:
 category: CONCERT REVIEW
 coauthor: "Hanna Kherzai"
 coauthor_url: "https://thetech.com/authors/hanna-kherzai"
-header_data: "RISE Concert
-Alice Smith feat. Cedric Jackson II
-Isabella Stewart Gardner Museum
+header_data: "RISE Concert\n
+Alice Smith feat. Cedric Jackson II\n
+Isabella Stewart Gardner Museum\n
 Oct. 12, 2017
 "
 ---

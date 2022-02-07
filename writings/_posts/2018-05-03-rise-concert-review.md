@@ -9,11 +9,11 @@ header_image_credit:
 category: CONCERT REVIEW
 coauthor: "Sebastian Butler"
 coauthor_url: "https://thetech.com/authors/sebastian-butler"
-header_data: "★★★★✩
-RISE Concert
-Headliner: Gretchen Parlato
-Opener: Mirella Costa
-Isabella Gardner Stewart Museum
+header_data: "★★★★✩\n
+RISE Concert\n
+Headliner: Gretchen Parlato\n
+Opener: Mirella Costa\n
+Isabella Gardner Stewart Museum\n
 April 26
 "
 ---

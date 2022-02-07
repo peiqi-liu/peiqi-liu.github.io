@@ -9,9 +9,9 @@ header_image_credit:  COURTESY OF HEM NARAYAN DAS CHAWDHARY
 category: BALLET REVIEW
 coauthor: "Abigail Anderson"
 coauthor_url: "https://thetech.com/authors/abigail-anderson"
-header_data: "Obsidian Tear
-Choreographed by Wayne McGregor
-Boston Opera House
+header_data: "Obsidian Tear\n
+Choreographed by Wayne McGregor\n
+Boston Opera House\n
 Nov. 3 – 12
 "
 ---

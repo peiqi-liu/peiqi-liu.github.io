@@ -9,12 +9,12 @@ header_image_credit:  COURTESY OF WARNER BROS PICTURES
 category: MOVIE REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★✩
-Ready Player One
-Directed by Steven Spielberg
-Screenplay by Zak Penn, Ernest Cline
-Starring Tye Sheridan, Olivia Cooke, Ben Mendelsohn, T.J. Miller, Simon Pegg, Mark Rylance.
-Rated PG-13
+header_data: "★★★★✩\n
+Ready Player One\n
+Directed by Steven Spielberg\n
+Screenplay by Zak Penn, Ernest Cline\n
+Starring Tye Sheridan, Olivia Cooke, Ben Mendelsohn, T.J. Miller, Simon Pegg, Mark Rylance.\n
+Rated PG-13\n
 Now Playing
 "
 ---

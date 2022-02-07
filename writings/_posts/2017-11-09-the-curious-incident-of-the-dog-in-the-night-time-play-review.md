@@ -9,12 +9,12 @@ header_image_credit:
 category: THEATER REVIEW
 coauthor: "Bridget Bohlin"
 coauthor_url: "https://thetech.com/authors/bridget-bohlin"
-header_data: "★★★★✩
-The Curious Incident of Dog in the Night-Time
-By SpeakEasy Stage Company
-Play Adaptation by Simon Stephens
-Based on the book “The Curious Incident of the Dog in the Night-Time” by Mark Haddon
-Playing until Nov. 18
+header_data: "★★★★✩\n
+The Curious Incident of Dog in the Night-Time\n
+By SpeakEasy Stage Company\n
+Play Adaptation by Simon Stephens\n
+Based on the book “The Curious Incident of the Dog in the Night-Time” by Mark Haddon\n
+Playing until Nov. 18\n
 "
 ---
 

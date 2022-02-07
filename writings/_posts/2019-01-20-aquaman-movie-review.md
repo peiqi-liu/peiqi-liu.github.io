@@ -9,11 +9,11 @@ header_image_credit:
 category: MOVIE REVIEW
 coauthor: "Rogers Epstein"
 coauthor_url: "https://thetech.com/authors/rogers-epstein"
-header_data: "★★★✩✩
-Aquaman
-Directed by James Wan
-Screenplay by David Leslie, Johnson-McGoldrick, and Will Beall
-Starring Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren
+header_data: "★★★✩✩\n
+Aquaman\n
+Directed by James Wan\n
+Screenplay by David Leslie, Johnson-McGoldrick, and Will Beall\n
+Starring Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren\n
 Rated PG-13, Now Playing
 "
 ---

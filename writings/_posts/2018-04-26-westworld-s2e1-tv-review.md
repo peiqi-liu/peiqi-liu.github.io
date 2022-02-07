@@ -9,10 +9,10 @@ header_image_credit:  COURTESY OF JOHN P. JOHNSON/HBO
 category: TV REVIEW
 coauthor: ""
 coauthor_url: ""
-header_data: "★★★★✩
-Westworld
-Directed by Vincenzo Natali and Richard J. Lewis
-Starring Evan Rachel Wood, Thandie Newton, Jeffrey Wright, James Marsden
+header_data: "★★★★✩\n
+Westworld\n
+Directed by Vincenzo Natali and Richard J. Lewis\n
+Starring Evan Rachel Wood, Thandie Newton, Jeffrey Wright, James Marsden\n
 Rated R
 "
 ---
