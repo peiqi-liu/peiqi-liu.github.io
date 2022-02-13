@@ -2,7 +2,7 @@
 name: "Photojournalism"
 arts:
 # Column 1
-- image: "assets/images/photography/7565_intersection.jpg"
+- image: "/assets/images/photography/7565_intersection.jpg"
   order: "1"
   title: "The intersection of Main Street and Portland Street, where a shooting took place on Sunday afternoon near the edge of campus"
   artist: "Mahi Shafiullah"
@@ -11,7 +11,7 @@ arts:
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/7565_intersection.jpg?1460696375"
 
 
-- image: "assets/images/photography/8219_Clash_www.jpg"
+- image: "/assets/images/photography/8219_Clash_www.jpg"
   order: "2"
   title: "Armies of MIT's east and west side engage in MIT's annual REX ''Water Wars'' Aug. 29 as dusk fell on Killian Court"
   artist: "Mahi Shafiullah"
@@ -20,7 +20,7 @@ arts:
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8219_Clash_www.jpg?1504141607"
 
 
-- image: "assets/images/photography/8221_MacG1_color.jpg"
+- image: "/assets/images/photography/8221_MacG1_color.jpg"
   order: "3"
   title: "MacGregor's convenience store closed after struggling to maintain business"
   artist: "Mahi Shafiullah"
@@ -28,7 +28,7 @@ arts:
   base_url: "https://thetech.com/photos/8221"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8221_MacG1_color.jpg?1504141625"
 
-- image: "assets/images/photography/8222_NH_1_www.jpg"
+- image: "/assets/images/photography/8222_NH_1_www.jpg"
   order: "4"
   title: "New House will undergo a year of renovations. Houses 5 and 6 will remain open for the fall"
   artist: "Mahi Shafiullah"
@@ -36,7 +36,7 @@ arts:
   base_url: "https://thetech.com/photos/8222"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8222_NH_1_www.jpg?1504141633"
 
-- image: "assets/images/photography/8227_8227_laverde.jpg"
+- image: "/assets/images/photography/8227_8227_laverde.jpg"
   order: "5"
   title: "LaVerde's Market, the largest and best known convenience store on campus, will no longer provide 24-hour service starting Sept. 7"
   artist: "Mahi Shafiullah"
@@ -44,7 +44,7 @@ arts:
   base_url: "https://thetech.com/photos/8227"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8227_8227_laverde.jpg?1504811520"
 
-- image: "assets/images/photography/8232_whitehead_astronaut.png"
+- image: "/assets/images/photography/8232_whitehead_astronaut.png"
   order: "6"
   title: "NASA astronaut and former Whitehead Institute Fellow Kate Rubins met with local students at the Whitehead Institute on Sept. 12"
   artist: "Mahi Shafiullah"
@@ -53,7 +53,7 @@ arts:
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8232_whitehead_astronaut.png?1505350604"
 
 
-- image: "assets/images/photography/8234_masq2.png"
+- image: "/assets/images/photography/8234_masq2.png"
   order: "7"
   title: "Masquerade parade participant at 25th Caribbean Carnival, Cambridge which took place between Central Square and Kendall Square on September 10th"
   artist: "Mahi Shafiullah"
@@ -61,7 +61,7 @@ arts:
   base_url: "https://thetech.com/photos/8234"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8234_masq2.png?1505351759"
 
-- image: "assets/images/photography/8237_nshafiul-loan-art.png"
+- image: "/assets/images/photography/8237_nshafiul-loan-art.png"
   order: "8"
   title: "A part of the Student Loan Art Program Exhibition by MIT's List Visual Art Center which ran from Sept. 5 ñ 17"
   artist: "Mahi Shafiullah"
@@ -69,7 +69,7 @@ arts:
   base_url: "https://thetech.com/photos/8237"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8237_nshafiul-loan-art.png?1505956587"
 
-- image: "assets/images/photography/8238_nshafiul_hackmit_freestuff.png"
+- image: "/assets/images/photography/8238_nshafiul_hackmit_freestuff.png"
   order: "9"
   title: "Group of students gathering at the company stalls set up in the hacking arena to meet the recruiters and get some free swag"
   artist: "Mahi Shafiullah"
@@ -77,7 +77,7 @@ arts:
   base_url: "https://thetech.com/photos/8238"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8238_nshafiul_hackmit_freestuff.png?1505956665"
 
-- image: "assets/images/photography/8239_nshafiul_hackmit_mentor.jpg"
+- image: "/assets/images/photography/8239_nshafiul_hackmit_mentor.jpg"
   order: "10"
   title: "A HackMIT mentor working with a hacker on solving a technical issue"
   artist: "Mahi Shafiullah"
@@ -85,7 +85,7 @@ arts:
   base_url: "https://thetech.com/photos/8239"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8239_nshafiul_hackmit_mentor.jpg?1505956677"
 
-- image: "assets/images/photography/8240_nshafiul-hackmit-cruise-ceo.png"
+- image: "/assets/images/photography/8240_nshafiul-hackmit-cruise-ceo.png"
   order: "11"
   title: "Kyle Vogt, the founder and CEO of Cruise, addresses the hackers gathered at HackMIT"
   artist: "Mahi Shafiullah"
@@ -93,7 +93,7 @@ arts:
   base_url: "https://thetech.com/photos/8240"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8240_nshafiul-hackmit-cruise-ceo.png?1505956681"
 
-- image: "assets/images/photography/8241_nshafiul-hackmit-hacker.png"
+- image: "/assets/images/photography/8241_nshafiul-hackmit-hacker.png"
   order: "12"
   title: "A hacker showing off his hack on 3D images at HackMIT"
   artist: "Mahi Shafiullah"
@@ -101,7 +101,7 @@ arts:
   base_url: "https://thetech.com/photos/8241"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8241_nshafiul-hackmit-hacker.png?1505956694"
 
-- image: "assets/images/photography/8242_nshafiul-hackmit-long-line.png"
+- image: "/assets/images/photography/8242_nshafiul-hackmit-long-line.png"
   order: "13"
   title: "Hackers waiting for the on-spot registration to open. Due to extreme interest, only fifty hackers were admitted on-spot"
   artist: "Mahi Shafiullah"
@@ -109,7 +109,7 @@ arts:
   base_url: "https://thetech.com/photos/8242"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8242_nshafiul-hackmit-long-line.png?1505956698"
 
-- image: "assets/images/photography/8243_nshafiul-hackmit-onesie.png"
+- image: "/assets/images/photography/8243_nshafiul-hackmit-onesie.png"
   order: "14"
   title: "Group of hackers late at night working on their project"
   artist: "Mahi Shafiullah"
@@ -117,7 +117,7 @@ arts:
   base_url: "https://thetech.com/photos/8243"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8243_nshafiul-hackmit-onesie.png?1505956703"
 
-- image: "assets/images/photography/8244_nshafiul-hackmit-opening.png"
+- image: "/assets/images/photography/8244_nshafiul-hackmit-opening.png"
   order: "15"
   title: "The opening ceremony of HackMIT, attended by the hackers and the sponsoring companies"
   artist: "Mahi Shafiullah"
@@ -125,7 +125,7 @@ arts:
   base_url: "https://thetech.com/photos/8244"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8244_nshafiul-hackmit-opening.png?1505956707"
 
-- image: "assets/images/photography/8245_nshafiul-hackmit-reddit-ceo.png"
+- image: "/assets/images/photography/8245_nshafiul-hackmit-reddit-ceo.png"
   order: "16"
   title: "Steve Huffman, the CEO of popular internet community reddit, delivering his keynote speech to the hackers gathered at HackMIT"
   artist: "Mahi Shafiullah"
@@ -133,7 +133,7 @@ arts:
   base_url: "https://thetech.com/photos/8245"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8245_nshafiul-hackmit-reddit-ceo.png?1505956711"
 
-- image: "assets/images/photography/8246_nshafiul-hackmit-team.png"
+- image: "/assets/images/photography/8246_nshafiul-hackmit-team.png"
   order: "17"
   title: "A team working on their hack in the hacking arena"
   artist: "Mahi Shafiullah"
@@ -141,7 +141,7 @@ arts:
   base_url: "https://thetech.com/photos/8246"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8246_nshafiul-hackmit-team.png?1505956714"
 
-- image: "assets/images/photography/8259_nshafiul-bbq-chicken.png"
+- image: "/assets/images/photography/8259_nshafiul-bbq-chicken.png"
   order: "18"
   title: "Cheeslings, Golden Olive Chicken and Gangnam-style Wings at BB.Q Chicken ó A Korean-style olive-oil fried chicken place opened recently in Allston"
   artist: "Mahi Shafiullah"
@@ -149,7 +149,7 @@ arts:
   base_url: "https://thetech.com/photos/8259"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8259_nshafiul-bbq-chicken.png?1506900630"
 
-- image: "assets/images/photography/8261_nshafiul-rei-weiss.jpg"
+- image: "/assets/images/photography/8261_nshafiul-rei-weiss.jpg"
   order: "19"
   title: "Rainer Weiss, professor emeritus at MIT, was awarded the Nobel Prize in Physics ''for decisive contrd the observatiotational waves'' Oct. 3"
   artist: "Mahi Shafiullah"
@@ -157,7 +157,7 @@ arts:
   base_url: "https://thetech.com/photos/8261"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8261_nshafiul-rei-weiss.jpg?1507066380"
 
-- image: "assets/images/photography/8307_nshafiul_Alice.jpg"
+- image: "/assets/images/photography/8307_nshafiul_Alice.jpg"
   order: "20"
   title: "Alice Smith performs from her album ''She'' in the RISE Concert at Isabella Stewart Gardner Museum Oct. 12"
   artist: "Mahi Shafiullah"
@@ -165,7 +165,7 @@ arts:
   base_url: "https://thetech.com/photos/8307"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8307_nshafiul_Alice.jpg?1508714112"
 
-- image: "assets/images/photography/8308_nshafiul_thax.jpg"
+- image: "/assets/images/photography/8308_nshafiul_thax.jpg"
   order: "21"
   title: "A lonely dinosaur skeleton sits atop Kresge Oval Oct. 23, likely placed there by hackers"
   artist: "Mahi Shafiullah"
@@ -173,7 +173,7 @@ arts:
   base_url: "https://thetech.com/photos/8308"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8308_nshafiul_thax.jpg?1508780544"
 
-- image: "assets/images/photography/8309_nshafiul_Cedric.jpg"
+- image: "/assets/images/photography/8309_nshafiul_Cedric.jpg"
   order: "22"
   title: "Cedric Jackon II performs in the opening act at the RISE concert in Isabella Stewart Gardner museum Oct. 12"
   artist: "Mahi Shafiullah"
@@ -181,7 +181,7 @@ arts:
   base_url: "https://thetech.com/photos/8309"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8309_nshafiul_Cedric.jpg?1508780631"
 
-- image: "assets/images/photography/8330_nshafiul_standup_mit.jpg"
+- image: "/assets/images/photography/8330_nshafiul_standup_mit.jpg"
   order: "23"
   title: "Vice President of Dean of Student Life Suzy Nelson, center, discusses ways to increase awareness of bias with participants at the Standing up for One MIT event Friday"
   artist: "Mahi Shafiullah"
@@ -189,7 +189,7 @@ arts:
   base_url: "https://thetech.com/photos/8330"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8330_nshafiul_standup_mit.jpg?1510097219"
 
-- image: "assets/images/photography/8347_nshafiul_indoor_lawn_mit.jpg"
+- image: "/assets/images/photography/8347_nshafiul_indoor_lawn_mit.jpg"
   order: "24"
   title: "MIT Indoor Lawn project covered significant parts of Student Center (W20)'s first floor with real grass Nov. 27"
   artist: "Mahi Shafiullah"
@@ -197,7 +197,7 @@ arts:
   base_url: "https://thetech.com/photos/8347"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8347_nshafiul_indoor_lawn_mit.jpg?1511807983"
 
-- image: "assets/images/photography/8354_nshafiul_shirley.jpg"
+- image: "/assets/images/photography/8354_nshafiul_shirley.jpg"
   order: "25"
   title: "Shirley Ann Jackson, the first African-American female MIT student to earn a PhD, addresses the audience at the memorial service held in honor of Paul E. Gray, MIT's 14th president, in a ceremony Thursday Nov. 30. Paul E. Gray earned a bachelors, MS and PhD from MIT on 1954, 1955, and 1960 respectively, and served as MIT's president from 1980 to 1990. He passed away due to complications from Alzheimer's disease Sep. 18, 2017"
   artist: "Mahi Shafiullah"
@@ -205,7 +205,7 @@ arts:
   base_url: "https://thetech.com/photos/8354"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8354_nshafiul_shirley.jpg?1512510962"
 
-- image: "assets/images/photography/8355_nshafiul_ico_1.jpg"
+- image: "/assets/images/photography/8355_nshafiul_ico_1.jpg"
   order: "26"
   title: "Cryptocurrency enthusiasts from around the greater Boston area listen to a video intro done by Lex Sokolin, Global Director Fintech Strategy, Partner at Autonomous Research, at the event ''Initial Coin Offerings: The Rise of Crypto Capitalism'', organized by MIT Enterprise Forum Cambridge at Room 32-123 Thursday Nov. 30, right as bitcoin broke the $11,000 mark"
   artist: "Mahi Shafiullah"
@@ -213,7 +213,7 @@ arts:
   base_url: "https://thetech.com/photos/8355"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8355_nshafiul_ico_1.jpg?1512510985"
 
-- image: "assets/images/photography/8356_nshafiul_trashion.jpg"
+- image: "/assets/images/photography/8356_nshafiul_trashion.jpg"
   order: "27"
   title: "Marcy Gillis sporting ''Woven'', a dress designed by Julie Kim and made by weaving and tying a series of knots from plastic threads, which were created by twisting together thin strips of trash bags at The Trashion Show 2017, organized by UA committee on sustainability Saturday, Dec. 1. Judges awarded ''Woven'' the first place in the show"
   artist: "Mahi Shafiullah"
@@ -221,7 +221,7 @@ arts:
   base_url: "https://thetech.com/photos/8356"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8356_nshafiul_trashion.jpg?1512511016"
 
-- image: "assets/images/photography/8357__TTE5678.jpg"
+- image: "/assets/images/photography/8357__TTE5678.jpg"
   order: "28"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -229,7 +229,7 @@ arts:
   base_url: "https://thetech.com/photos/8357"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8357__TTE5678.jpg?1512515920"
 
-- image: "assets/images/photography/8358__TTE5689.jpg"
+- image: "/assets/images/photography/8358__TTE5689.jpg"
   order: "29"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -237,7 +237,7 @@ arts:
   base_url: "https://thetech.com/photos/8358"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8358__TTE5689.jpg?1512515926"
 
-- image: "assets/images/photography/8359__TTE5696.jpg"
+- image: "/assets/images/photography/8359__TTE5696.jpg"
   order: "30"
   title: "Models at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -245,7 +245,7 @@ arts:
   base_url: "https://thetech.com/photos/8359"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8359__TTE5696.jpg?1512515934"
 
-- image: "assets/images/photography/8360__TTE5701.jpg"
+- image: "/assets/images/photography/8360__TTE5701.jpg"
   order: "31"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -253,7 +253,7 @@ arts:
   base_url: "https://thetech.com/photos/8360"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8360__TTE5701.jpg?1512515942"
 
-- image: "assets/images/photography/8361__TTE5719.jpg"
+- image: "/assets/images/photography/8361__TTE5719.jpg"
   order: "32"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -261,7 +261,7 @@ arts:
   base_url: "https://thetech.com/photos/8361"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8361__TTE5719.jpg?1512515950"
 
-- image: "assets/images/photography/8362__TTE5723.jpg"
+- image: "/assets/images/photography/8362__TTE5723.jpg"
   order: "33"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -269,7 +269,7 @@ arts:
   base_url: "https://thetech.com/photos/8362"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8362__TTE5723.jpg?1512515960"
 
-- image: "assets/images/photography/8363__TTE5728.jpg"
+- image: "/assets/images/photography/8363__TTE5728.jpg"
   order: "34"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -277,7 +277,7 @@ arts:
   base_url: "https://thetech.com/photos/8363"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8363__TTE5728.jpg?1512515963"
 
-- image: "assets/images/photography/8364__TTE5733.jpg"
+- image: "/assets/images/photography/8364__TTE5733.jpg"
   order: "35"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -285,7 +285,7 @@ arts:
   base_url: "https://thetech.com/photos/8364"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8364__TTE5733.jpg?1512515973"
 
-- image: "assets/images/photography/8366__TTE5743.jpg"
+- image: "/assets/images/photography/8366__TTE5743.jpg"
   order: "36"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -293,7 +293,7 @@ arts:
   base_url: "https://thetech.com/photos/8366"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8366__TTE5743.jpg?1512515990"
 
-- image: "assets/images/photography/8367__TTE5750.jpg"
+- image: "/assets/images/photography/8367__TTE5750.jpg"
   order: "37"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -301,7 +301,7 @@ arts:
   base_url: "https://thetech.com/photos/8367"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8367__TTE5750.jpg?1512516000"
 
-- image: "assets/images/photography/8368__TTE5752.jpg"
+- image: "/assets/images/photography/8368__TTE5752.jpg"
   order: "38"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -309,7 +309,7 @@ arts:
   base_url: "https://thetech.com/photos/8368"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8368__TTE5752.jpg?1512516008"
 
-- image: "assets/images/photography/8369__TTE5769.jpg"
+- image: "/assets/images/photography/8369__TTE5769.jpg"
   order: "39"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -317,7 +317,7 @@ arts:
   base_url: "https://thetech.com/photos/8369"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8369__TTE5769.jpg?1512516016"
 
-- image: "assets/images/photography/8370__TTE5774.jpg"
+- image: "/assets/images/photography/8370__TTE5774.jpg"
   order: "40"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -325,7 +325,7 @@ arts:
   base_url: "https://thetech.com/photos/8370"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8370__TTE5774.jpg?1512516022"
 
-- image: "assets/images/photography/8371__TTE5785.jpg"
+- image: "/assets/images/photography/8371__TTE5785.jpg"
   order: "41"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -333,7 +333,7 @@ arts:
   base_url: "https://thetech.com/photos/8371"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8371__TTE5785.jpg?1512516030"
 
-- image: "assets/images/photography/8372__TTE5792.jpg"
+- image: "/assets/images/photography/8372__TTE5792.jpg"
   order: "42"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -341,7 +341,7 @@ arts:
   base_url: "https://thetech.com/photos/8372"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8372__TTE5792.jpg?1512516038"
 
-- image: "assets/images/photography/8373__TTE5793.jpg"
+- image: "/assets/images/photography/8373__TTE5793.jpg"
   order: "43"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -349,7 +349,7 @@ arts:
   base_url: "https://thetech.com/photos/8373"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8373__TTE5793.jpg?1512516047"
 
-- image: "assets/images/photography/8374__TTE5797.jpg"
+- image: "/assets/images/photography/8374__TTE5797.jpg"
   order: "44"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -357,7 +357,7 @@ arts:
   base_url: "https://thetech.com/photos/8374"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8374__TTE5797.jpg?1512516054"
 
-- image: "assets/images/photography/8375__TTE5816.jpg"
+- image: "/assets/images/photography/8375__TTE5816.jpg"
   order: "45"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -365,7 +365,7 @@ arts:
   base_url: "https://thetech.com/photos/8375"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8375__TTE5816.jpg?1512516064"
 
-- image: "assets/images/photography/8376__TTE5827.jpg"
+- image: "/assets/images/photography/8376__TTE5827.jpg"
   order: "46"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -373,7 +373,7 @@ arts:
   base_url: "https://thetech.com/photos/8376"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8376__TTE5827.jpg?1512516072"
 
-- image: "assets/images/photography/8377__TTE5833.jpg"
+- image: "/assets/images/photography/8377__TTE5833.jpg"
   order: "47"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -381,7 +381,7 @@ arts:
   base_url: "https://thetech.com/photos/8377"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8377__TTE5833.jpg?1512516082"
 
-- image: "assets/images/photography/8378__TTE5836.jpg"
+- image: "/assets/images/photography/8378__TTE5836.jpg"
   order: "48"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -389,7 +389,7 @@ arts:
   base_url: "https://thetech.com/photos/8378"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8378__TTE5836.jpg?1512516090"
 
-- image: "assets/images/photography/8379__TTE5843.jpg"
+- image: "/assets/images/photography/8379__TTE5843.jpg"
   order: "49"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -397,7 +397,7 @@ arts:
   base_url: "https://thetech.com/photos/8379"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8379__TTE5843.jpg?1512516099"
 
-- image: "assets/images/photography/8381__TTE5851.jpg"
+- image: "/assets/images/photography/8381__TTE5851.jpg"
   order: "50"
   title: "Model at The Trashion Show 2017 posing on the catwalk"
   artist: "Mahi Shafiullah"
@@ -405,7 +405,7 @@ arts:
   base_url: "https://thetech.com/photos/8381"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8381__TTE5851.jpg?1512516116"
 
-- image: "assets/images/photography/8382__TTE5860.jpg"
+- image: "/assets/images/photography/8382__TTE5860.jpg"
   order: "51"
   title: "Team Kinetic Peacock posing for photos in the recess between the ramp walk and the award ceremony at Trashion Show 2017"
   artist: "Mahi Shafiullah"
@@ -413,7 +413,7 @@ arts:
   base_url: "https://thetech.com/photos/8382"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8382__TTE5860.jpg?1512516126"
 
-- image: "assets/images/photography/8383__TTE5864.jpg"
+- image: "/assets/images/photography/8383__TTE5864.jpg"
   order: "52"
   title: "A designer poses with her model at Trashion Show 2017"
   artist: "Mahi Shafiullah"
@@ -421,7 +421,7 @@ arts:
   base_url: "https://thetech.com/photos/8383"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8383__TTE5864.jpg?1512516136"
 
-- image: "assets/images/photography/8384__TTE5920.jpg"
+- image: "/assets/images/photography/8384__TTE5920.jpg"
   order: "53"
   title: "Khanh Nguyen and Ryan Gulland of team Duo Et Machina, which won the second prize at The Trashion Show 2017"
   artist: "Mahi Shafiullah"
@@ -429,7 +429,7 @@ arts:
   base_url: "https://thetech.com/photos/8384"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8384__TTE5920.jpg?1512516145"
 
-- image: "assets/images/photography/8396_nshafiul_ivy.jpg"
+- image: "/assets/images/photography/8396_nshafiul_ivy.jpg"
   order: "54"
   title: "Ivy Li '20, explains her photos to a curious member of audience in her black-and-white photo exhibition in the Wiesner student gallery Dec. 8. Her photos will be exhibited in the gallery for the next month"
   artist: "Mahi Shafiullah"
@@ -437,7 +437,7 @@ arts:
   base_url: "https://thetech.com/photos/8396"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8396_nshafiul_ivy.jpg?1512779402"
 
-- image: "assets/images/photography/8457_nshafiul-garage.png"
+- image: "/assets/images/photography/8457_nshafiul-garage.png"
   order: "55"
   title: "West Garage parking facility (W45) is in the process of being demolished for the new undergraduate dorm on campus, which is expected to open in 2020"
   artist: "Mahi Shafiullah"
@@ -445,7 +445,7 @@ arts:
   base_url: "https://thetech.com/photos/8457"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8457_nshafiul-garage.png?1518464397"
 
-- image: "assets/images/photography/8469_nshafiul_ring.jpg"
+- image: "/assets/images/photography/8469_nshafiul_ring.jpg"
   order: "56"
   title: "The ring committee revealed the class of 2020 Brass Rat at the ring premiere last Friday, Feb. 16 in Kresge Auditorium"
   artist: "Mahi Shafiullah"
@@ -453,7 +453,7 @@ arts:
   base_url: "https://thetech.com/photos/8469"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8469_nshafiul_ring.jpg?1519155896"
 
-- image: "assets/images/photography/8476_DSC_0037.png"
+- image: "/assets/images/photography/8476_DSC_0037.png"
   order: "57"
   title: "The MIT European Career Fair took place Saturday Feb. 24 in the Johnson track. Companies and universities from different European countries met with MIT students looking to work or study in Europe"
   artist: "Mahi Shafiullah"
@@ -461,7 +461,7 @@ arts:
   base_url: "https://thetech.com/photos/8476"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8476_DSC_0037.png?1519597607"
 
-- image: "assets/images/photography/8487_nshafiul_rak.jpg"
+- image: "/assets/images/photography/8487_nshafiul_rak.jpg"
   order: "58"
   title: "Students write and post letters to home and abroad free of charge thanks to MIT Libraries in Lobby 10 during Random Act of Kindness (RAK) week"
   artist: "Mahi Shafiullah"
@@ -469,7 +469,7 @@ arts:
   base_url: "https://thetech.com/photos/8487"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8487_nshafiul_rak.jpg?1520379481"
 
-- image: "assets/images/photography/8496_Screen_Shot_2018-03-13_at_7.43.14_PM.png"
+- image: "/assets/images/photography/8496_Screen_Shot_2018-03-13_at_7.43.14_PM.png"
   order: "59"
   title: "Nathan Liang '21 is involved in The Tech, DynaMIT, Concourse, and RAK Week, and wants to start a Taiko Dojo Club at MIT"
   artist: "Mahi Shafiullah"
@@ -477,7 +477,7 @@ arts:
   base_url: "https://thetech.com/photos/8496"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8496_Screen_Shot_2018-03-13_at_7.43.14_PM.png?1520984620"
 
-- image: "assets/images/photography/8498_nshafiul_dreamers.jpg"
+- image: "/assets/images/photography/8498_nshafiul_dreamers.jpg"
   order: "60"
   title: "A hack showing support for DACA students appeared in Lobby 7 March 11"
   artist: "Mahi Shafiullah"
@@ -486,7 +486,7 @@ arts:
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8498_nshafiul_dreamers.jpg?1521004239"
 
 
-- image: "assets/images/photography/8499_nshafiul_IST.jpg"
+- image: "/assets/images/photography/8499_nshafiul_IST.jpg"
   order: "61"
   title: "Allan and Danny Gelman '20 in one of the two Next House doubles that IS&T will convert to telecom receiver rooms this summer. Their room is Khan Academy founder Sal Khan '98's former room"
   artist: "Mahi Shafiullah"
@@ -494,7 +494,7 @@ arts:
   base_url: "https://thetech.com/photos/8499"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8499_nshafiul_IST.jpg?1521004245"
 
-- image: "assets/images/photography/8502_nshafiul_bitcoin.jpg"
+- image: "/assets/images/photography/8502_nshafiul_bitcoin.jpg"
   order: "62"
   title: "A hacker working late night at MIT Bitcoin hackathon during MIT's bitcoin Expo which took place the weekend of Mar. 17 - 18 at MIT"
   artist: "Mahi Shafiullah"
@@ -502,7 +502,7 @@ arts:
   base_url: "https://thetech.com/photos/8502"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8502_nshafiul_bitcoin.jpg?1521584501"
 
-- image: "assets/images/photography/8523_nshafiul_protest.jpg"
+- image: "/assets/images/photography/8523_nshafiul_protest.jpg"
   order: "63"
   title: "Protesters gathered outside Lobby 7 the day before the prince was to visit MIT"
   artist: "Mahi Shafiullah"
@@ -510,7 +510,7 @@ arts:
   base_url: "https://thetech.com/photos/8523"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8523_nshafiul_protest.jpg?1521925959"
 
-- image: "assets/images/photography/8535_nshafiul_banana_room_(1_of_6).jpg"
+- image: "/assets/images/photography/8535_nshafiul_banana_room_(1_of_6).jpg"
   order: "64"
   title: "A student busies himself with the Lego set in 26-110, the Compton Lounge, which has been recently refurnished by the UA Innovation Committee"
   artist: "Mahi Shafiullah"
@@ -518,7 +518,7 @@ arts:
   base_url: "https://thetech.com/photos/8535"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8535_nshafiul_banana_room_%281_of_6%29.jpg?1523487669"
 
-- image: "assets/images/photography/8536_nshafiul_banana_room_(2_of_6).jpg"
+- image: "/assets/images/photography/8536_nshafiul_banana_room_(2_of_6).jpg"
   order: "65"
   title: "Two students work on their laptops in 26-110, the Compton Lounge, which houses a well-lit individual study space, snacks, and drinks"
   artist: "Mahi Shafiullah"
@@ -526,7 +526,7 @@ arts:
   base_url: "https://thetech.com/photos/8536"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8536_nshafiul_banana_room_%282_of_6%29.jpg?1523487681"
 
-- image: "assets/images/photography/8537_nshafiul_banana_room_(3_of_6).jpg"
+- image: "/assets/images/photography/8537_nshafiul_banana_room_(3_of_6).jpg"
   order: "66"
   title: "Students take naps in between classes at the Compton Lounge, 26-110, which has been recently refurnished"
   artist: "Mahi Shafiullah"
@@ -534,7 +534,7 @@ arts:
   base_url: "https://thetech.com/photos/8537"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8537_nshafiul_banana_room_%283_of_6%29.jpg?1523487696"
 
-- image: "assets/images/photography/8538_nshafiul_banana_room_(4_of_6).jpg"
+- image: "/assets/images/photography/8538_nshafiul_banana_room_(4_of_6).jpg"
   order: "67"
   title: "Two students work in the refurnished Compton Lounge, which includes free snacks and drinks"
   artist: "Mahi Shafiullah"
@@ -542,7 +542,7 @@ arts:
   base_url: "https://thetech.com/photos/8538"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8538_nshafiul_banana_room_%284_of_6%29.jpg?1523487709"
 
-- image: "assets/images/photography/8539_nshafiul_banana_room_(5_of_6).jpg"
+- image: "/assets/images/photography/8539_nshafiul_banana_room_(5_of_6).jpg"
   order: "68"
   title: "A student works in 26-110, the Compton Lounge, in front of boards filled with student feedback about the refurnished room"
   artist: "Mahi Shafiullah"
@@ -550,7 +550,7 @@ arts:
   base_url: "https://thetech.com/photos/8539"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8539_nshafiul_banana_room_%285_of_6%29.jpg?1523487723"
 
-- image: "assets/images/photography/8540_nshafiul_banana_room_(6_of_6).jpg"
+- image: "/assets/images/photography/8540_nshafiul_banana_room_(6_of_6).jpg"
   order: "69"
   title: "Students work in 26-110, the Compton Lounge, refurnished recently by the UA Innovation Committee"
   artist: "Mahi Shafiullah"
@@ -558,7 +558,7 @@ arts:
   base_url: "https://thetech.com/photos/8540"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8540_nshafiul_banana_room_%286_of_6%29.jpg?1523487738"
 
-- image: "assets/images/photography/8546_nshafiul_prefrosh.jpg"
+- image: "/assets/images/photography/8546_nshafiul_prefrosh.jpg"
   order: "70"
   title: "Prefrosh Julia Park finds her way in front of the student center and building 7 Thursday during MIT's annual Campus Preview Weekend, which runs April 12ñApril 15 this year"
   artist: "Mahi Shafiullah"
@@ -566,7 +566,7 @@ arts:
   base_url: "https://thetech.com/photos/8546"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8546_nshafiul_prefrosh.jpg?1523569275"
 
-- image: "assets/images/photography/8563_nshafiul_flags.jpg"
+- image: "/assets/images/photography/8563_nshafiul_flags.jpg"
   order: "71"
   title: "5,660 red flags were planted outside the Student Center to bring awareness to the problem of dating abuse. According to the CDC, nearly half of people will experience psychological aggression from an intimate partner in their lifetimes"
   artist: "Mahi Shafiullah"
@@ -574,7 +574,7 @@ arts:
   base_url: "https://thetech.com/photos/8563"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8563_nshafiul_flags.jpg?1524607130"
 
-- image: "assets/images/photography/8564_nshafiul_sh.jpg"
+- image: "/assets/images/photography/8564_nshafiul_sh.jpg"
   order: "72"
   title: "Murals from Senior House are displayed in the Wiesner Gallery on the 2nd floor of the Student Center"
   artist: "Mahi Shafiullah"
@@ -582,7 +582,7 @@ arts:
   base_url: "https://thetech.com/photos/8564"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8564_nshafiul_sh.jpg?1524607138"
 
-- image: "assets/images/photography/8589_nshafiul_gretchen.jpg"
+- image: "/assets/images/photography/8589_nshafiul_gretchen.jpg"
   order: "73"
   title: "Jazz vocalist Gretchen Parlato performs at the Isabella Stewart Gardner Museum's RISE Concert series April 26"
   artist: "Mahi Shafiullah"
@@ -590,7 +590,7 @@ arts:
   base_url: "https://thetech.com/photos/8589"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8589_nshafiul_gretchen.jpg?1525213683"
 
-- image: "assets/images/photography/8606_20180525-DSC_3047.jpg"
+- image: "/assets/images/photography/8606_20180525-DSC_3047.jpg"
   order: "74"
   title: "Maggie Rogers"
   artist: "Mahi Shafiullah"
@@ -598,7 +598,7 @@ arts:
   base_url: "https://thetech.com/photos/8606"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8606_20180525-DSC_3047.jpg?1528163227"
 
-- image: "assets/images/photography/8607_20180525-DSC_3243.jpg"
+- image: "/assets/images/photography/8607_20180525-DSC_3243.jpg"
   order: "75"
   title: "Eric Howk, Kyle O'Quin, and John Baldwin Gourley of Portugal. The Man"
   artist: "Mahi Shafiullah"
@@ -606,7 +606,7 @@ arts:
   base_url: "https://thetech.com/photos/8607"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8607_20180525-DSC_3243.jpg?1528163239"
 
-- image: "assets/images/photography/8608_20180525-DSC_3350.jpg"
+- image: "/assets/images/photography/8608_20180525-DSC_3350.jpg"
   order: "76"
   title: "Hayley Williams of Paramore"
   artist: "Mahi Shafiullah"
@@ -614,7 +614,7 @@ arts:
   base_url: "https://thetech.com/photos/8608"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8608_20180525-DSC_3350.jpg?1528163252"
 
-- image: "assets/images/photography/8609_20180526-DSC_3890.jpg"
+- image: "/assets/images/photography/8609_20180526-DSC_3890.jpg"
   order: "77"
   title: "Royal Blood bass player and vocalist Mike Kerr"
   artist: "Mahi Shafiullah"
@@ -622,7 +622,7 @@ arts:
   base_url: "https://thetech.com/photos/8609"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8609_20180526-DSC_3890.jpg?1528163270"
 
-- image: "assets/images/photography/8610_20180526-DSC_3924.jpg"
+- image: "/assets/images/photography/8610_20180526-DSC_3924.jpg"
   order: "78"
   title: "Part of the audience at Brockhampton concert"
   artist: "Mahi Shafiullah"
@@ -630,7 +630,7 @@ arts:
   base_url: "https://thetech.com/photos/8610"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8610_20180526-DSC_3924.jpg?1528163282"
 
-- image: "assets/images/photography/8611_20180526-DSC_4117.jpg"
+- image: "/assets/images/photography/8611_20180526-DSC_4117.jpg"
   order: "79"
   title: "Part of the audience at Brockhampton concert"
   artist: "Mahi Shafiullah"
@@ -638,7 +638,7 @@ arts:
   base_url: "https://thetech.com/photos/8611"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8611_20180526-DSC_4117.jpg?1528163297"
 
-- image: "assets/images/photography/8612_20180526-DSC_4226.jpg"
+- image: "/assets/images/photography/8612_20180526-DSC_4226.jpg"
   order: "80"
   title: "Romil Hemnani, Matt Champion, and Merlyn Wood of ''The Internet's first boy band'' Brockhampton"
   artist: "Mahi Shafiullah"
@@ -646,7 +646,7 @@ arts:
   base_url: "https://thetech.com/photos/8612"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8612_20180526-DSC_4226.jpg?1528163310"
 
-- image: "assets/images/photography/8613_20180526-DSC_4400.jpg"
+- image: "/assets/images/photography/8613_20180526-DSC_4400.jpg"
   order: "81"
   title: "St. Vincent"
   artist: "Mahi Shafiullah"
@@ -654,7 +654,7 @@ arts:
   base_url: "https://thetech.com/photos/8613"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8613_20180526-DSC_4400.jpg?1528163324"
 
-- image: "assets/images/photography/8614_20180526-DSC_4805.jpg"
+- image: "/assets/images/photography/8614_20180526-DSC_4805.jpg"
   order: "82"
   title: "Queens of the Stone Age bass player Michael Shuman"
   artist: "Mahi Shafiullah"
@@ -662,7 +662,7 @@ arts:
   base_url: "https://thetech.com/photos/8614"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8614_20180526-DSC_4805.jpg?1528163339"
 
-- image: "assets/images/photography/8615_20180526-DSC_5173.jpg"
+- image: "/assets/images/photography/8615_20180526-DSC_5173.jpg"
   order: "83"
   title: "Tyler, the Creator"
   artist: "Mahi Shafiullah"
@@ -670,7 +670,7 @@ arts:
   base_url: "https://thetech.com/photos/8615"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8615_20180526-DSC_5173.jpg?1528163355"
 
-- image: "assets/images/photography/8616_20180527-DSC_5242.jpg"
+- image: "/assets/images/photography/8616_20180527-DSC_5242.jpg"
   order: "84"
   title: "Audience at Khalid's concert"
   artist: "Mahi Shafiullah"
@@ -678,7 +678,7 @@ arts:
   base_url: "https://thetech.com/photos/8616"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8616_20180527-DSC_5242.jpg?1528163375"
 
-- image: "assets/images/photography/8617_20180527-DSC_5713.jpg"
+- image: "/assets/images/photography/8617_20180527-DSC_5713.jpg"
   order: "85"
   title: "Khalid"
   artist: "Mahi Shafiullah"
@@ -686,7 +686,7 @@ arts:
   base_url: "https://thetech.com/photos/8617"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8617_20180527-DSC_5713.jpg?1528163391"
 
-- image: "assets/images/photography/8660_nshafiul_enablers.jpg"
+- image: "/assets/images/photography/8660_nshafiul_enablers.jpg"
   order: "86"
   title: "A student walks past chalk art at the Stata Center that says ''the Chancellor & the COD are RAPIST ENABLERS'' Sept. 17"
   artist: "Mahi Shafiullah"
@@ -694,7 +694,7 @@ arts:
   base_url: "https://thetech.com/photos/8660"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8660_nshafiul_enablers.jpg?1537209612"
 
-- image: "assets/images/photography/8680_nshafiul_opening_cafe.jpg"
+- image: "/assets/images/photography/8680_nshafiul_opening_cafe.jpg"
   order: "87"
   title: "TechMart, a grocery store that opened in the Walker Memorial building Monday, aims to provide ''at cost'' groceries to students after Star Market closed down in the spring"
   artist: "Mahi Shafiullah"
@@ -702,7 +702,7 @@ arts:
   base_url: "https://thetech.com/photos/8680"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8680_nshafiul_opening_cafe.jpg?1537395992"
 
-- image: "assets/images/photography/8692_assel_fcf18.jpg"
+- image: "/assets/images/photography/8692_assel_fcf18.jpg"
   order: "88"
   title: "Students gather around Rev.com's booth at MIT's Fall Career Fair Sept. 21. The fair, held in the Zesiger Center and adjacent facilities, attracts hundreds of companies every year"
   artist: "Mahi Shafiullah"
@@ -710,7 +710,7 @@ arts:
   base_url: "https://thetech.com/photos/8692"
   image_url: "https://s3.amazonaws.com/thetech-production/images/web_photos/web/8692_assel_fcf18.jpg?1537923495"
 
-- image: "assets/images/photography/8784_20181031-DSC_7005.jpg"
+- image: "/assets/images/photography/8784_20181031-DSC_7005.jpg"
   order: "89"
   title: "Students attend the vigil organized at the steps of the Student Center yesterday in the wake of the mass shooting at the Tree of Life Synagogue in Pittsburgh, Pa"
   artist: "Mahi Shafiullah"

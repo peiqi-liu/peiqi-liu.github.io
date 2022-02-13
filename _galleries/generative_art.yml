@@ -1,0 +1,249 @@
+---
+name: "Generative Art"
+description: "Generative art created with Go. Credits to @jdxyw/generativeart wherever applicable. Refresh the page to see an entirely different set of arts!"
+arts:
+# Column 1
+- image: "https://fnts.fly.dev/art/blackhole"
+  order: "1"
+  title: "Black Hole"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/blackhole"
+  image_url: "https://fnts.fly.dev/art/blackhole"
+
+
+- image: "https://fnts.fly.dev/art/circlegrid"
+  order: "2"
+  title: "Circle Grid"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/circlegrid"
+  image_url: "https://fnts.fly.dev/art/circlegrid"
+
+
+
+- image: "https://fnts.fly.dev/art/circleline"
+  order: "3"
+  title: "Circle Line"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/circleline"
+  image_url: "https://fnts.fly.dev/art/circleline"
+
+
+- image: "https://fnts.fly.dev/art/circleloop"
+  order: "4"
+  title: "Circle Loop"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/circleloop"
+  image_url: "https://fnts.fly.dev/art/circleloop"
+
+
+- image: "https://fnts.fly.dev/art/circlemove"
+  order: "5"
+  title: "Circle Move"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/circlemove"
+  image_url: "https://fnts.fly.dev/art/circlemove"
+
+
+- image: "https://fnts.fly.dev/art/circlenoise"
+  order: "6"
+  title: "Circle Noise"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/circlenoise"
+  image_url: "https://fnts.fly.dev/art/circlenoise"
+
+
+- image: "https://fnts.fly.dev/art/colorcanva"
+  order: "7"
+  title: "Circle Line"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/colorcanva"
+  image_url: "https://fnts.fly.dev/art/colorcanva"
+
+
+- image: "https://fnts.fly.dev/art/colorcircle"
+  order: "8"
+  title: "Color Circle"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/colorcircle"
+  image_url: "https://fnts.fly.dev/art/colorcircle"
+
+
+- image: "https://fnts.fly.dev/art/colorcircle2"
+  order: "9"
+  title: "Color Circle 2"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/colorcircle2"
+  image_url: "https://fnts.fly.dev/art/colorcircle2"
+
+
+- image: "https://fnts.fly.dev/art/contourline"
+  order: "10"
+  title: "Contour Line"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/contourline"
+  image_url: "https://fnts.fly.dev/art/contourline"
+
+
+- image: "https://fnts.fly.dev/art/domainwrap"
+  order: "11"
+  title: "Domain Wrap"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/domainwrap"
+  image_url: "https://fnts.fly.dev/art/domainwrap"
+
+
+- image: "https://fnts.fly.dev/art/dotline"
+  order: "12"
+  title: "Dot Line"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/dotline"
+  image_url: "https://fnts.fly.dev/art/dotline"
+
+
+- image: "https://fnts.fly.dev/art/dotswave"
+  order: "13"
+  title: "Dots Wave"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/dotswave"
+  image_url: "https://fnts.fly.dev/art/dotswave"
+
+
+- image: "https://fnts.fly.dev/art/gridsquare"
+  order: "14"
+  title: "Grid Square"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/gridsquare"
+  image_url: "https://fnts.fly.dev/art/gridsquare"
+
+
+- image: "https://fnts.fly.dev/art/janus"
+  order: "15"
+  title: "Janus"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/janus"
+  image_url: "https://fnts.fly.dev/art/janus"
+
+
+- image: "https://fnts.fly.dev/art/julia"
+  order: "16"
+  title: "Julia"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/julia"
+  image_url: "https://fnts.fly.dev/art/julia"
+
+
+- image: "https://fnts.fly.dev/art/maze"
+  order: "17"
+  title: "Maze"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/maze"
+  image_url: "https://fnts.fly.dev/art/maze"
+
+
+- image: "https://fnts.fly.dev/art/noiseline"
+  order: "18"
+  title: "Noise Line"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/noiseline"
+  image_url: "https://fnts.fly.dev/art/noiseline"
+
+
+- image: "https://fnts.fly.dev/art/oceanfish"
+  order: "19"
+  title: "Ocean Fish"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/oceanfish"
+  image_url: "https://fnts.fly.dev/art/oceanfish"
+
+
+- image: "https://fnts.fly.dev/art/perlinpearls"
+  order: "20"
+  title: "Perlin Pearls"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/perlinpearls"
+  image_url: "https://fnts.fly.dev/art/perlinpearls"
+
+
+- image: "https://fnts.fly.dev/art/pixelhole"
+  order: "21"
+  title: "Pixel Hole"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/pixelhole"
+  image_url: "https://fnts.fly.dev/art/pixelhole"
+
+
+- image: "https://fnts.fly.dev/art/randcircle"
+  order: "22"
+  title: "Random Circle"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/randcircle"
+  image_url: "https://fnts.fly.dev/art/randcircle"
+
+
+- image: "https://fnts.fly.dev/art/randomshape"
+  order: "21"
+  title: "Random Shape"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/randomshape"
+  image_url: "https://fnts.fly.dev/art/randomshape"
+
+
+- image: "https://fnts.fly.dev/art/silkysky"
+  order: "22"
+  title: "Silky Sky"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/silkysky"
+  image_url: "https://fnts.fly.dev/art/silkysky"
+
+
+- image: "https://fnts.fly.dev/art/silksmoke"
+  order: "23"
+  title: "Silky Smoke"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/silksmoke"
+  image_url: "https://fnts.fly.dev/art/silksmoke"
+
+
+- image: "https://fnts.fly.dev/art/spiralsquare"
+  order: "24"
+  title: "Spiral Square"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/spiralsquare"
+  image_url: "https://fnts.fly.dev/art/spiralsquare"
+
+
+- image: "https://fnts.fly.dev/art/yarn"
+  order: "25"
+  title: "Yarn"
+  artist: "Mahi Shafiullah"
+  description: 
+  base_url: "https://fnts.fly.dev/art/yarn"
+  image_url: "https://fnts.fly.dev/art/yarn"
+
+---

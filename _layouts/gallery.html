@@ -77,7 +77,19 @@
                             octicon
                             chevron-left height:16 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Home
                             %}Home</a></p>
+                    {% for gallery in site.galleries %}
+                    {% if gallery.name == page.title %}
+                    {% if gallery.description %}
+                    <h1 class="f00-light lh-condensed mb-2">{{ page.title }}</h1>
+                    <p class="f3-light mb-5">
+                        <span class="d-flex flex-items-center {% if site.style == 'dark' %}text-white{% endif %}">{{
+                            gallery.description }}</span>
+                    </p>
+                    {% else %}
                     <h1 class="f00-light lh-condensed mb-5">{{ page.title }}</h1>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
                     <div class="content_container">
                         <div class="masonry">
                             <div class="clearfix flex-md-row flex-items-center d-flex flex-wrap flex-justify-center {% if site.style == 'dark' %}text-white{% endif %}"
@@ -91,7 +103,7 @@
                                         <a itemprop="contentUrl" href="{{ art.image_url }}"
                                             data-caption-desc="{{ art.description }}" data-description="{{ art.title }}"
                                             class="glightbox d-flex flex-items-center flex-justify-center mx-auto">
-                                            <img itemprop="thumbnail" src="/{{ art.image }}" alt="{{ art.title }}"
+                                            <img itemprop="thumbnail" src="{{ art.image }}" alt="{{ art.title }}"
                                                 class="width-full rounded-2 mx-auto">
                                         </a>
                                         <figcaption itemprop="caption description" hidden
