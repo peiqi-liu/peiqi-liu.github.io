@@ -23,6 +23,12 @@
     {% include thoughts.html %}
   </div>
   {% endunless %}
+
+  {% if site.quotes %}
+  <div class="my-6">
+    {% include goodreads_quotes.html %}
+  </div>
+  {% endif %}
 </div>
 {% else %}
 <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
@@ -51,9 +57,15 @@
       {% unless posts_total == 0 %}
       {% include thoughts.html %}
       {% endunless %}
+
+      {% if site.quotes %}
+      {% include goodreads_quotes.html %}
+      {% endif %}
     </div>
   </div>
 </div>
 {% endif %}
+
+
 
 {% include footer.html %}

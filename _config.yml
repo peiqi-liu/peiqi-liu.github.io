@@ -80,3 +80,5 @@ topics:
   - name: Philosophy
     web_url: https://plato.stanford.edu/
     image_url: /assets/images/icons/icons8-philosophy-100.png
+
+quotes: true

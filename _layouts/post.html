@@ -103,6 +103,9 @@
           {% endif %}
           {{ post_body }}
         </div>
+        {% if site.quotes %}
+        {% include goodreads_quotes.html %}
+        {% endif %}
       </div>
     </div>
   </div>
