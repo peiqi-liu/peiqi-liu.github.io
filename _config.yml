@@ -2,6 +2,7 @@ layout: sidebar
 style: dark
 encoding: UTF-8
 url: "https://notmahi.gitlab.io"
+repository: notmahi/notmahi.github.io
 
 plugins:
   - jekyll-octicons
