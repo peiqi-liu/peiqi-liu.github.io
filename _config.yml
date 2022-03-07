@@ -1,7 +1,7 @@
 layout: sidebar
 style: dark
 encoding: UTF-8
-url: "https://mahis.life"
+url: "https://notmahi.gitlab.io"
 
 plugins:
   - jekyll-octicons
