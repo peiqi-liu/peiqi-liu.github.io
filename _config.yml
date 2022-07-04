@@ -26,16 +26,25 @@ collections:
   - galleries
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 15
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    - Minify
+    - marvin
+    - Manga.py
+    - learned-k-server
+    - hierarchical-abm
+    - covid19-r-simulations-lancet
+    - puntender
+    - uptime
+    # - notmahi/bd-rt-dashboard
+    # - d3-books-timeline
 
 social_media:
   # behance: your_username
