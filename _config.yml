@@ -1,7 +1,9 @@
 layout: sidebar
 style: dark
 encoding: UTF-8
-url: "https://mahis.life"
+url: "https://notmahi.gitlab.io"
+baseurl: ""
+repository: notmahi/notmahi.github.io
 
 plugins:
   - jekyll-octicons
