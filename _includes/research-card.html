@@ -1,39 +1,60 @@
 <div
-  class="height-full lh-condensed text-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3">
-  <div class="d-flex flex-justify-between flex-items-start mb-1">
-    <h1 class="f3 text-bold mb-1">
-      <a href={% if research.show_blog_link %}"{{ site.baseurl }}{{ research.url }}"{% else %}""{% endif %}>
-        {{ research.title }}
+  class="height-full lh-condensed d-flex text-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3">
+  {% if research.video %}
+  <div>
+    <video muted autoplay loop height="160">
+      <source src="{{ research.video }}" type="video/mp4">
+    </video>
+  </div>
+  {% endif %}
+  {% if research.local_video %}
+  <div>
+    <video muted autoplay loop height="160">
+      <source src="{{ site.baseurl }}{{ research.local_video }}" type="video/mp4">
+    </video>
+  </div>
+  {% endif %}
+  {% if research.image %}
+  <div>
+    <img src="{{ research.image }}" height="160" class="zoom">
+  </div>
+  {% endif %}
+  <div class="ml-3">
+    <div class="d-flex flex-justify-between flex-items-start mb-1">
+      <h1 class="f3 text-bold mb-1">
+        <a href={% if research.show_blog_link %}"{{ site.baseurl }}{{ research.url }}"{% else %}""{% endif %}>
+          {{ research.title }}
+        </a>
+      </h1>
+    </div>
+    {% if research.venue %}
+    <div class="text-gray mb-2 f4-light text-italic">{{ research.venue }}</div>
+    {% endif %}
+    <div class="d-flex flex-justify-between flex-items-start mb-1">
+      <p class="f4 text-light ws-normal mb-1">
+        {{ research.authors }}
+      </p>
+    </div>
+    <div class="BtnGroup d-block mb-1">
+      <button class="BtnGroup-item btn-outline btn" type="button"
+        onclick="toggle_visibility('toggle-abstract-{{ forloop.index }}')">Abstract</button>
+      {% if research.paper_url %}
+      <a class="BtnGroup-item  btn-outline btn text-light" href="{{ research.paper_url }}" role="button"
+        target="_blank">Paper</a>
+      {% endif %}
+      {% if research.code_url %}
+      <a class="BtnGroup-item  btn-outline btn" href="{{ research.code_url }}" role="button" target="_blank">Code</a>
+      {% endif %}
+      {% if research.project_site_url %}
+      <a class="BtnGroup-item  btn-outline btn" href="{{ research.project_site_url }}" role="button" target="_blank">
+        Project Site
       </a>
-    </h1>
-  </div>
-  {{% if research.venue %}}
-  <div class="text-gray mb-2 f4-light text-italic">{{ research.venue }}</div>
-  {{% endif %}}
-  <div class="d-flex flex-justify-between flex-items-start mb-1">
-    <p class="f4 text-light ws-normal mb-1">
-      {{ research.authors }}
-    </p>
-  </div>
-  <div class="BtnGroup d-block mb-1">
-    <button class="BtnGroup-item btn-outline btn" type="button"
-      onclick="toggle_visibility('toggle-abstract-{{ forloop.index }}')">Abstract</button>
-    {% if research.paper_url %}
-    <a class="BtnGroup-item  btn-outline btn text-light" href="{{ research.paper_url }}" role="button"
-      target="_blank">Paper</a>
-    {% endif %}
-    {% if research.code_url %}
-    <a class="BtnGroup-item  btn-outline btn" href="{{ research.code_url }}" role="button" target="_blank">Code</a>
-    {% endif %}
-    {% if research.project_site_url %}
-    <a class="BtnGroup-item  btn-outline btn" href="{{ research.project_site_url }}" role="button" target="_blank">
-      Project Site
-    </a>
-    {% endif %}
-  </div>
-  <div hidden class="lh-default mb-1 ws-normal f4" id="toggle-abstract-{{ forloop.index }}">
-    <p>
-      {{ research.content }}
-    </p>
+      {% endif %}
+    </div>
+    <div hidden class="lh-default mb-1 ws-normal f4" id="toggle-abstract-{{ forloop.index }}">
+      <p>
+        {{ research.content }}
+      </p>
+    </div>
   </div>
 </div>
