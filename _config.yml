@@ -43,6 +43,8 @@ projects:
     - covid19-r-simulations-lancet
     - puntender
     - uptime
+    - Detic
+    - LSeg
     # - notmahi/bd-rt-dashboard
     # - d3-books-timeline
 
