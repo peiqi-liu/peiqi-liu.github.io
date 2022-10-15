@@ -29,6 +29,11 @@
             text.classList.add("col-lg-8");
         }
     }
+
+    function toggle_visibility_by_name(id) {
+        var e = document.getElementById(id);
+        e.hidden = !e.hidden;
+    }
 </script>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
     {% for research in site.categories.research limit: 12 %}
