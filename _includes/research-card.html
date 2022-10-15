@@ -1,6 +1,6 @@
 <div
   class="d-flex flex-wrap height-full lh-condensed text-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3">
-  <div class="col-sm-12 col-md-12 col-lg-4">
+  <div class="col-sm-12 col-md-12 col-lg-4 mb-2" id="video-{{ forloop.index }}">
     {% if research.video %}
     <div>
       <video muted autoplay loop width="100%">
@@ -21,7 +21,7 @@
     </div>
     {% endif %}
   </div>
-  <div class="col-sm-12 col-md-12 col-lg-8 pl-lg-3">
+  <div class="col-sm-12 col-md-12 col-lg-8 pl-lg-3" id="text-block-{{ forloop.index }}">
     <div class="d-flex flex-justify-between flex-items-start mb-1">
       <h1 class="f3 text-bold mb-1">
         <a href={% if research.show_blog_link %}"{{ site.baseurl }}{{ research.url }}"{% else %}""{% endif %}>
@@ -39,7 +39,7 @@
     </div>
     <div class="BtnGroup d-block mb-1">
       <button class="BtnGroup-item btn-outline btn" type="button"
-        onclick="toggle_visibility('toggle-abstract-{{ forloop.index }}')">Abstract</button>
+        onclick="toggle_visibility('{{ forloop.index }}')">Expand abstract</button>
       {% if research.paper_url %}
       <a class="BtnGroup-item  btn-outline btn text-light" href="{{ research.paper_url }}" role="button"
         target="_blank">Paper</a>

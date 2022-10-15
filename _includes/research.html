@@ -5,13 +5,34 @@
 </p>
 <script type="text/javascript">
     function toggle_visibility(id) {
-        var e = document.getElementById(id);
+        var idName = "toggle-abstract-" + id;
+        var e = document.getElementById(idName);
         e.hidden = !e.hidden;
+
+        var heroName = "video-" + id;
+        var hero = document.getElementById(heroName);
+        if (hero.classList.contains("col-lg-4")) {
+            hero.classList.remove("col-lg-4");
+            hero.classList.add("col-lg-12");
+        } else {
+            hero.classList.remove("col-lg-12");
+            hero.classList.add("col-lg-4");
+        }
+
+        var textName = "text-block-" + id;
+        var text = document.getElementById(textName);
+        if (text.classList.contains("col-lg-8")) {
+            text.classList.remove("col-lg-8");
+            text.classList.add("col-lg-12");
+        } else {
+            text.classList.remove("col-lg-12");
+            text.classList.add("col-lg-8");
+        }
     }
 </script>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
     {% for research in site.categories.research limit: 12 %}
-<!--     {{ forloop.index }} -->
+    <!--     {{ forloop.index }} -->
     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-1">
         {% include research-card.html %}
     </div>
