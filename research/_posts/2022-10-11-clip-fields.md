@@ -10,7 +10,7 @@ code_url: https://github.com/notmahi/clip-fields
 project_site_url: https://mahis.life/clip-fields/
 show_blog_link: false
 venue: "Under review, arXiv:2210.05663"
-local_video: assets/images/research/clip_fields.mp4
+local_video: assets/images/research/clip_fields.webm
 ---
 
 We propose CLIP-Fields, an implicit scene model that can be trained with no direct human supervision. This model learns a mapping from spatial locations to semantic embedding vectors. The mapping can then be used for a variety of tasks, such as segmentation, instance identification, semantic search over space, and view localization. Most importantly, the mapping can be trained with supervision coming only from web-image and web-text trained models such as CLIP, Detic, and Sentence-BERT. When compared to baselines like Mask-RCNN, our method outperforms on few-shot instance identification or semantic segmentation on the HM3D dataset with only a fraction of the examples. Finally, we show that using CLIP-Fields as a scene memory, robots can perform semantic navigation in real-world environments.

@@ -11,13 +11,19 @@
 
         var heroName = "video-" + id;
         var hero = document.getElementById(heroName);
+        var video = hero.childNodes[1].childNodes[2];
+        var videoSource = hero.childNodes[1].childNodes[2].childNodes[1];
         if (hero.classList.contains("col-lg-4")) {
             hero.classList.remove("col-lg-4");
             hero.classList.add("col-lg-12");
+            videoSource.src = videoSource.src.replace(".webm", "_large.mp4");
         } else {
             hero.classList.remove("col-lg-12");
             hero.classList.add("col-lg-4");
+            videoSource.src = videoSource.src.replace("_large.mp4", ".webm");
         }
+        video.load();
+        video.play();
 
         var textName = "text-block-" + id;
         var text = document.getElementById(textName);
