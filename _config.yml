@@ -45,6 +45,7 @@ projects:
     - uptime
     - Detic
     - LSeg
+    - play-to-policy.github.io
     # - notmahi/bd-rt-dashboard
     # - d3-books-timeline
 
@@ -59,26 +60,22 @@ social_media:
   twitter: notmahi
   keybase: mahi
   instagram: thesecondsonofman
-  # mastodon: your_username
+  mastodon: "@notmahi"
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
   # unsplash: your_username
   # vk: your_username
-  website: http://mahis.life
+  # website: https://mahis.life
 
 topics:
   - name: Deep Learning
-    web_url: https://github.com/topics/deep-learning
+    web_url: https://mahis.life/bet
     image_url: /assets/images/icons/icons8-deep-learning-64.png
 
   - name: Robotics
-    web_url: https://lerrelpinto.com
+    web_url: https://mahis.life/clip-fields
     image_url: /assets/images/icons/icons8-robot-120.png
-
-  - name: Data Visualization
-    web_url: https://notmahi.github.io/d3-book-timeline/
-    image_url: /assets/images/icons/icons8-data-visualization-64.png
 
   - name: Reading
     web_url: https://www.goodreads.com/shafiullah
@@ -91,5 +88,9 @@ topics:
   - name: Philosophy
     web_url: https://plato.stanford.edu/
     image_url: /assets/images/icons/icons8-philosophy-100.png
+
+  - name: Data Visualization
+    web_url: https://mahis.life/d3-book-timeline/
+    image_url: /assets/images/icons/icons8-data-visualization-64.png
 
 quotes: true
