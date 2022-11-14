@@ -70,11 +70,11 @@ social_media:
 
 topics:
   - name: Deep Learning
-    web_url: https://mahis.life/bet
+    web_url: https://mahis.life/bet/
     image_url: /assets/images/icons/icons8-deep-learning-64.png
 
   - name: Robotics
-    web_url: https://mahis.life/clip-fields
+    web_url: https://mahis.life/clip-fields/
     image_url: /assets/images/icons/icons8-robot-120.png
 
   - name: Reading
