@@ -9,7 +9,7 @@ paper_url: https://arxiv.org/abs/2210.05663
 code_url: https://github.com/notmahi/clip-fields
 project_site_url: https://mahis.life/clip-fields/
 show_blog_link: false
-venue: "Under review, arXiv:2210.05663"
+venue: "Workshop on Language and Robot Learning @ CoRL 2022: Spotlight, arXiv:2210.05663"
 local_video: assets/images/research/clip_fields.webm
 ---
 
