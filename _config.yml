@@ -20,7 +20,7 @@ defaults:
     values:
       layout: "post"
 
-include: ['_pages']
+include: ['_pages', '/.well-known']
 
 collections:
   - galleries
