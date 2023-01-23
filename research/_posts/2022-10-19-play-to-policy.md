@@ -10,7 +10,7 @@ code_url: https://github.com/jeffacce/play-to-policy
 project_site_url: https://play-to-policy.github.io/
 show_blog_link: false
 highlight: "Top 5% (Oral)"
-venue: "International Conference of Learning Representations, 2023"
+venue: "International Conference of Learning Representations (ICLR) 2023"
 local_video: assets/images/research/play_to_policy.webm
 ---
 
