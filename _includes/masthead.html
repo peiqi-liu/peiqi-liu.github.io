@@ -4,7 +4,12 @@
 {% assign metadata_styles = 'd-flex flex-items-center mb-3' %}
 {% endif %}
 
-<img src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 200px;">
+<picture>
+  <img decoding="async" loading="lazy" src="/assets/images/self/mahi_profile_comp.jpeg" class="mb-3"
+    style="max-width: 300px;">
+  <source srcSet="/assets/images/self/mahi_profile_comp.avif" type="image/avif" class="mb-3"
+    style="max-width: 300px;" />
+</picture>
 <h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 f0-light">{% if user.name %}{{ user.name }}{%
   else %}{{ user.login }}{% endif %}</h1>
 <p class="mb-3 f3-light {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
@@ -14,13 +19,13 @@
 {% if include.metadata %}
 <div class="f3-light mb-6">
   <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-    {% octicon home height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
+    {% octicon home height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Home %}
     <a href="/" {% if site.style=='dark' %}class="text-white" {% endif %}>
       Home
     </a>
   </div>
   <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-    {% octicon mortar-board height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
+    {% octicon mortar-board height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Scholar %}
     <a href="https://scholar.google.com/citations?user=vAOw6aQAAAAJ" {% if site.style=='dark' %}class="text-white" {%
       endif %}>
       Google Scholar

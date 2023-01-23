@@ -30,7 +30,12 @@
       </h1>
     </div>
     {% if research.venue %}
-    <div class="text-gray mb-2 f4-light text-italic">{{ research.venue }}</div>
+    {% if research.highlight %}<span class="text-red mb-2 f4-light text-italic"><strong>{{ research.highlight
+        }}</strong>
+    </span><span class="text-gray mb-2 f4-light text-italic">@</span>{%
+    endif
+    %}
+    <span class="text-gray mb-2 f4-light text-italic">{{ research.venue }}</span>
     {% endif %}
     <div class="d-flex flex-justify-between flex-items-start mb-1">
       <p class="f4 text-light ws-normal mb-1">

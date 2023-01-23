@@ -46,7 +46,7 @@ projects:
     - Detic
     - LSeg
     - play-to-policy.github.io
-    # - notmahi/bd-rt-dashboard
+    - bd-rt-dashboard
     # - d3-books-timeline
 
 social_media:
@@ -86,7 +86,7 @@ topics:
     image_url: /assets/images/icons/icons8-photography-64.png
 
   - name: Philosophy
-    web_url: https://plato.stanford.edu/
+    web_url: https://mahis.life/2017/11/21/ministry-of-utmost-happiness-book-review/
     image_url: /assets/images/icons/icons8-philosophy-100.png
 
   - name: Data Visualization
