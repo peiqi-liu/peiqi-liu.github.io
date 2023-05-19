@@ -24,7 +24,8 @@
   <div class="col-sm-12 col-md-12 col-lg-8 pl-lg-3" id="text-block-{{ forloop.index }}">
     <div class="d-flex flex-justify-between flex-items-start mb-1">
       <h1 class="f3 text-bold mb-1">
-        <a href={% if research.show_blog_link %}"{{ site.baseurl }}{{ research.url }}"{% else %}""{% endif %}>
+        <a href={% if research.show_blog_link %}"{{ site.baseurl }}{{ research.url }}"{% else %}"{{ research.paper_url
+          }}"{% endif %}>
           {{ research.title }}
         </a>
       </h1>
