@@ -47,6 +47,8 @@ projects:
     - LSeg
     - play-to-policy.github.io
     - bd-rt-dashboard
+    - cv
+    - google-scholar-scraper
     # - d3-books-timeline
 
 social_media:
