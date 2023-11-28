@@ -3,7 +3,7 @@
   <div class="col-sm-12 col-md-12 col-lg-4 mb-2" id="video-{{ forloop.index }}">
     {% if research.video %}
     <div>
-      <video muted autoplay loop width="100%">
+      <video muted autoplay loop playsinline width="100%">
         <source src="{{ research.video }}" type="video/mp4">
       </video>
     </div>
