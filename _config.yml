@@ -71,13 +71,13 @@ social_media:
   # website: https://mahis.life
 
 topics:
+  - name: Robotics
+    web_url: https://dobb-e.com/
+    image_url: /assets/images/icons/icons8-robot-120.png
+
   - name: Deep Learning
     web_url: https://mahis.life/bet/
     image_url: /assets/images/icons/icons8-deep-learning-64.png
-
-  - name: Robotics
-    web_url: https://mahis.life/clip-fields/
-    image_url: /assets/images/icons/icons8-robot-120.png
 
   - name: Reading
     web_url: https://www.goodreads.com/shafiullah
