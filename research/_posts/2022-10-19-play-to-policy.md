@@ -9,6 +9,7 @@ paper_url: https://arxiv.org/abs/2210.10047
 code_url: https://github.com/jeffacce/play-to-policy
 project_site_url: https://play-to-policy.github.io/
 show_blog_link: false
+show_card: true
 highlight: "Top 5% (Oral)"
 venue: "International Conference of Learning Representations (ICLR) 2023"
 local_video: assets/images/research/play_to_policy.webm

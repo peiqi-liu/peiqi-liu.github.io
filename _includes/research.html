@@ -1,6 +1,8 @@
-<h2 class="{% if site.style=='dark' %}text-white{% endif %} f1-light">My Research</h2>
-<p class="f3-light mb-3 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">A selection of my recent
-    research projects.
+<h2 class="{% if site.style=='dark' %}text-white{% endif %} f1-light">Selected Research</h2>
+<p class="f3-light mb-3 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">A few of my recent
+    research projects. You can find a full list of my works on <a
+        href="https://scholar.google.com/citations?hl=en&user=vAOw6aQAAAAJ&view_op=list_works&sortby=pubdate">Google
+        Scholar</a>.
 </p>
 <script type="text/javascript">
     function toggle_visibility(id) {
@@ -42,9 +44,11 @@
 </script>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
     {% for research in site.categories.research limit: 12 %}
+    {% if research.show_card %}
     <!--     {{ forloop.index }} -->
     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-1">
         {% include research-card.html %}
     </div>
+    {% endif %}
     {% endfor %}
 </div>

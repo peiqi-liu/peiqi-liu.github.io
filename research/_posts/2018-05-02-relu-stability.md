@@ -8,6 +8,7 @@ authors: "Kai Y. Xiao, Vincent Tjeng, Nur Muhammad (Mahi) Shafiullah, Aleksander
 code_url: https://github.com/MadryLab/relu_stable
 paper_url: https://arxiv.org/abs/1809.03008
 show_blog_link: false
+show_card: false
 venue: International Conference of Learning Representations (ICLR) 2019
 local_video: assets/images/research/rsloss.webm
 ---

@@ -9,6 +9,7 @@ paper_url: https://arxiv.org/abs/2210.05663
 code_url: https://github.com/notmahi/clip-fields
 project_site_url: https://mahis.life/clip-fields/
 show_blog_link: false
+show_card: true
 highlight: "Outstanding Paper Award"
 venue: "Workshop on Language and Robot Learning, CoRL 2022; Robotics: Science and Systems (RSS) 2023"
 local_video: assets/images/research/clip_fields.webm
