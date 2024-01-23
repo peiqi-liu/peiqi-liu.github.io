@@ -1,7 +1,7 @@
 ---
 date: 2022-10-19 20:00:00
 layout: research 
-tags: play data, transformers, behavior transformers, real robot experiments, play kitchen
+tags: real robots, real home, imitation learning, home robotics, learning from demonstration, robotics dataset,  robot foundational model
 description: On Bringing Robots Home
 title: "On Bringing Robots Home"
 authors: "Nur Muhammad (Mahi) Shafiullah, Anant Rai, Haritheja Etukuru, Yiqian Liu, Ishan Misra, Soumith Chintala, Lerrel Pinto"
