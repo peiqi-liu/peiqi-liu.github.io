@@ -17,11 +17,11 @@
         if (hero.classList.contains("col-lg-4")) {
             hero.classList.remove("col-lg-4");
             hero.classList.add("col-lg-12");
-            videoSource.src = videoSource.src.replace(".webm", "_large.mp4");
+            videoSource.src = videoSource.src.replace(".mp4", "_large.mp4");
         } else {
             hero.classList.remove("col-lg-12");
             hero.classList.add("col-lg-4");
-            videoSource.src = videoSource.src.replace("_large.mp4", ".webm");
+            videoSource.src = videoSource.src.replace("_large.mp4", ".mp4");
         }
         video.load();
         video.play();
