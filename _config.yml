@@ -74,25 +74,31 @@ topics:
   - name: Robotics
     web_url: https://dobb-e.com/
     image_url: /assets/images/icons/icons8-robot-120.png
+    alt: "A small, happy robot"
 
-  - name: Deep Learning
+  - name: Machine Learning
     web_url: https://mahis.life/bet/
     image_url: /assets/images/icons/icons8-deep-learning-64.png
-
-  - name: Reading
-    web_url: https://www.goodreads.com/shafiullah
-    image_url: /assets/images/icons/icons8-books-64.png
-
-  - name: Photography and Writing
-    web_url: https://thetech.com/photographers/mahi-shafiullah
-    image_url: /assets/images/icons/icons8-photography-64.png
+    alt: "A neural network"
 
   - name: Philosophy
     web_url: https://mahis.life/2017/11/21/ministry-of-utmost-happiness-book-review/
     image_url: /assets/images/icons/icons8-philosophy-100.png
+    alt: "The symbol Phi"
 
-  - name: Data Visualization
+  - name: Writing and Photography
+    web_url: https://thetech.com/photographers/mahi-shafiullah
+    image_url: /assets/images/icons/icons8-photography-64.png
+    alt: "A camera"
+
+  - name: Literature
+    web_url: https://www.goodreads.com/shafiullah
+    image_url: /assets/images/icons/icons8-books-64.png
+    alt: "A stack of books"
+
+  - name: Dataviz
     web_url: https://mahis.life/d3-book-timeline/
     image_url: /assets/images/icons/icons8-data-visualization-64.png
+    alt: "A bar chart"
 
 quotes: true

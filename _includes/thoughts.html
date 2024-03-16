@@ -1,5 +1,6 @@
-<h2 class="{% if site.style=='dark' %}text-white{% endif %} f1-light">My Writings</h2>
-<p class="f3-light mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Articles I've written.
+<h2 class="{% if site.style=='dark' %}text-white{% endif %} f1-light">Writings</h2>
+<p class="f3-light mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Articles and essays I've
+  written, mostly as a part of the MIT student newspaper, and a few at my own leisure time.
 </p>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
   {% for post in site.categories.writings limit: 6 %}
