@@ -2,6 +2,7 @@
 date: 2018-09-09 23:16:20
 layout: research
 tags: robust ml, deep neural network, verification, co-training
+pills: machine-learning
 description: ReLU Stability
 title: Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability
 authors: "Kai Y. Xiao, Vincent Tjeng, Nur Muhammad (Mahi) Shafiullah, Aleksander Madry"

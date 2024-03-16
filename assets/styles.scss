@@ -68,3 +68,48 @@ h1 {
     color: #0366d6;
   }
 }
+
+.topic-pill {
+  background-color: #0366d6;
+  border: 1px solid #c8e1ff;
+  border-radius: 9999px;
+  color: #f1f8ff;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-right: 8px;
+  padding: 0 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+// pill-colors:
+// behavior-cloning-algorithms: #FFBF00
+// home-robots: #C3B93D
+// open-vocab-robots: #87B37A
+
+.topic-pill-behavior-cloning-algorithms {
+  background-color: #CE8147;
+  border-color: #CE8147;
+}
+.topic-pill-open-vocab-robotics {
+  background-color: #A5BE00;
+  border-color: #A5BE00;
+}
+
+.topic-pill-home-robotics {
+  background-color: #87B37A;
+  border-color: #87B37A;
+}
+
+.topic-pill-visual-representation-learning {
+  background-color: #B8336A;
+  border-color: #B8336A;
+}
+
+.topic-pill-large-pretrained-models {
+  background-color: #FFBF00;
+  border-color: #FFBF00;
+  color: #2F363D;
+}

@@ -30,6 +30,14 @@
         </a>
       </h1>
     </div>
+    {% if research.pills %}
+    {% assign pills = research.pills | split: ", " %}
+    <div class="mb-1">
+      {% for pill in pills %}
+      <span class="v-align-middle mr-1 mb-1 topic-pill topic-pill-{{ pill }}">{{ pill }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
     {% if research.venue %}
     {% if research.highlight %}<span class="text-red mb-2 f4-light text-italic"><strong>{{ research.highlight
         }}</strong>
