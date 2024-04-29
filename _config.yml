@@ -1,7 +1,7 @@
 layout: sidebar
 style: dark
 encoding: UTF-8
-url: "https://mahis.life"
+url: "https://peiqi-liu.github.io"
 
 plugins:
   - jekyll-octicons
@@ -57,12 +57,12 @@ social_media:
   # facebook: your_username
   # hackerrank: your_username
   # youtube: your_username
-  scholar: vAOw6aQAAAAJ
-  linkedin: nshafiul
-  twitter: notmahi
-  keybase: mahi
-  instagram: thesecondsonofman
-  mastodon: "@notmahi"
+  scholar: -XXb1xwAAAAJ
+  linkedin: peiqi-liu-2a40901b6
+  twitter: LIUPEIQI2
+  # keybase: mahi
+  instagram: peiqi.liu.leo
+  #  mastodon: "@notmahi"
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
