@@ -28,13 +28,13 @@
       Home
     </a>
   </div>
-  <!-- <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
     {% octicon mortar-board height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Scholar %}
-    <a href="https://scholar.google.com/citations?user=vAOw6aQAAAAJ" {% if site.style=='dark' %}class="text-white" {%
+    <a href="https://scholar.google.com/citations?hl=en&user=-XXb1xwAAAAJ&view_op=list_works&sortby=pubdate" {% if site.style=='dark' %}class="text-white" {%
       endif %}>
       Google Scholar
     </a>
-  </div> -->
+  </div>
   <!--<div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
     {% octicon pencil height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
     <a href="/writings/" {% if site.style=='dark' %}class="text-white" {% endif %}>
@@ -46,7 +46,7 @@
     <a href="/photojournalism/" {% if site.style=='dark' %}class="text-white" {% endif %}>
       Photos
     </a>
-  </div>-->
+  </div>
   <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
     {% octicon image height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Arts %}
     <a href="/generative-art/" {% if site.style=='dark' %}class="text-white" {% endif %}>
@@ -59,7 +59,7 @@
     <a href="https://github.com/{{ user.login }}" {% if site.style=='dark' %}class="text-white" {% endif %}>
       @{{ user.login }}
     </a>
-  </div>
+  </div>-->
   {% endif %}
   {% if user.email %}
   <div class="{{ metadata_styles }}">
