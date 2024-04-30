@@ -52,14 +52,14 @@
     <a href="/generative-art/" {% if site.style=='dark' %}class="text-white" {% endif %}>
       Arts
     </a>
-  </div>
+  </div>-->
   {% if user.name %}
   <div class="{{ metadata_styles }}">
     {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
     <a href="https://github.com/{{ user.login }}" {% if site.style=='dark' %}class="text-white" {% endif %}>
       @{{ user.login }}
     </a>
-  </div>-->
+  </div>
   {% endif %}
   {% if user.email %}
   <div class="{{ metadata_styles }}">
