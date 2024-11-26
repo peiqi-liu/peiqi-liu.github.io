@@ -28,6 +28,12 @@
       Home
     </a>
   </div>
+  <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %} hide-in-portrait">
+    {% octicon note height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Writings %}
+    <a href="/assets/files/Peiqi_Liu_s_CV.pdf" {% if site.style=='dark' %}class="text-white" {% endif %}>
+      Curriculam Vitae
+    </a>
+  </div>
   <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
     {% octicon mortar-board height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Scholar %}
     <a href="https://scholar.google.com/citations?hl=en&user=-XXb1xwAAAAJ&view_op=list_works&sortby=pubdate" {% if site.style=='dark' %}class="text-white" {%
